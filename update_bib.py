@@ -1,6 +1,6 @@
 import requests
 import time
-import json
+import sys
 
 # ==========================================
 # [설정] ORCID ID
@@ -8,84 +8,91 @@ ORCID_ID = "0000-0001-5727-5716"
 OUTPUT_FILE = "publications.bib"
 # ==========================================
 
+# 사람인 척 속이는 헤더 (User-Agent)
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "application/json"
+}
+
 def get_works_ids(orcid_id):
     url = f"https://pub.orcid.org/v3.0/{orcid_id}/works"
-    # [중요] 브라우저인 척 속이는 헤더 추가
-    headers = {
-        "Accept": "application/json",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-    }
     
-    print(f"📡 ORCID 서버에 접속 시도: {url}")
-    response = requests.get(url, headers=headers)
-    
-    if response.status_code != 200:
-        print(f"❌ 접속 실패! 상태 코드: {response.status_code}")
-        print(f"응답 내용: {response.text}")
+    print(f"Checking URL: {url}")
+    try:
+        response = requests.get(url, headers=HEADERS, timeout=15)
+        
+        if response.status_code != 200:
+            print(f"Error accessing ORCID! Status Code: {response.status_code}")
+            print(f"Response: {response.text[:200]}") # 에러 메시지 앞부분 출력
+            return []
+        
+        data = response.json()
+        works = data.get("group", [])
+        print(f"Found {len(works)} work groups.")
+        
+        put_codes = []
+        for work_group in works:
+            summaries = work_group.get("work-summary", [])
+            if summaries:
+                # 가장 최신 버전의 ID(put-code) 가져오기
+                code = summaries[0]["put-code"]
+                put_codes.append(code)
+                
+        return put_codes
+        
+    except Exception as e:
+        print(f"Exception occurred: {e}")
         return []
-    
-    data = response.json()
-    works = data.get("group", [])
-    print(f"✅ 발견된 논문 그룹 수: {len(works)}개")
-    
-    put_codes = []
-    for work_group in works:
-        summaries = work_group.get("work-summary", [])
-        if summaries:
-            # 가장 최신 버전(첫번째)의 ID 가져오기
-            put_codes.append(summaries[0]["put-code"])
-            
-    return put_codes
 
 def get_bibtex(orcid_id, put_code):
     url = f"https://pub.orcid.org/v3.0/{orcid_id}/work/{put_code}"
-    headers = {
-        "Accept": "application/x-bibtex",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-    }
+    # BibTeX 요청용 헤더 설정
+    bib_headers = HEADERS.copy()
+    bib_headers["Accept"] = "application/x-bibtex"
     
     try:
-        response = requests.get(url, headers=headers, timeout=10)
+        response = requests.get(url, headers=bib_headers, timeout=15)
         if response.status_code == 200:
             return response.text
         else:
-            print(f"⚠️ 논문 ID {put_code} 변환 실패 (Code: {response.status_code})")
-    except Exception as e:
-        print(f"⚠️ 에러 발생: {e}")
-        
-    return None
+            print(f"Failed to fetch BibTeX for code {put_code}. Status: {response.status_code}")
+            return None
+    except:
+        return None
 
 def main():
-    print(f"🚀 업데이트 시작: {ORCID_ID}")
+    print(f"--- Starting Update for {ORCID_ID} ---")
     
+    # 1. 논문 목록 가져오기
     put_codes = get_works_ids(ORCID_ID)
     
     if not put_codes:
-        print("🛑 가져올 논문이 없습니다. ORCID 공개 설정(Everyone)을 확인해주세요!")
-        # 빈 파일이라도 생성해서 에러 방지
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            f.write("") 
+        print("No works found. Please check ORCID visibility again.")
+        # 빈 파일이라도 생성 (에러 방지)
+        with open(OUTPUT_FILE, "w") as f: f.write("")
         return
 
-    print(f"📥 총 {len(put_codes)}편의 논문 정보를 다운로드합니다...")
+    print(f"Downloading {len(put_codes)} papers...")
     
+    # 2. 각 논문 상세 정보 다운로드
     all_bibtex = []
-    for i, code in enumerate(put_codes):
+    count = 0
+    
+    for code in put_codes:
         bib = get_bibtex(ORCID_ID, code)
         if bib:
             all_bibtex.append(bib)
-            print(f"  - [{i+1}/{len(put_codes)}] 완료")
-        else:
-            print(f"  - [{i+1}/{len(put_codes)}] 실패")
-        time.sleep(0.5)
+            count += 1
+            print(f"Download success: {code}")
+        time.sleep(0.2) # 너무 빠르면 차단될 수 있으므로 대기
         
-    # 결과 저장
+    # 3. 파일 저장
     if all_bibtex:
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write("\n\n".join(all_bibtex))
-        print(f"🎉 성공! {OUTPUT_FILE}에 {len(all_bibtex)}편 저장 완료.")
+        print(f"--- SUCCESS! Saved {count} papers to {OUTPUT_FILE} ---")
     else:
-        print("⚠️ 데이터는 찾았으나 BibTeX 변환에 실패했습니다.")
+        print("--- FAILED: Papers found but no BibTeX downloaded ---")
 
 if __name__ == "__main__":
     main()
