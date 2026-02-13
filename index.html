@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publications - NIE LAB</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+    <style>
+        body { font-family: 'Times New Roman', Times, serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 50px 20px; background-color: #fff; }
+        .header-area { border-bottom: 3px solid #000; padding-bottom: 20px; margin-bottom: 40px; text-align: center; }
+        h1 { font-size: 2.5rem; margin: 0; text-transform: uppercase; letter-spacing: 2px; }
+        #total-stats { font-style: italic; color: #666; margin-top: 10px; }
+        
+        /* 내비게이션 탭 */
+        #nav-tabs { position: sticky; top: 0; background: #fff; padding: 15px 0; display: flex; flex-wrap: wrap; gap: 10px; border-bottom: 1px solid #eee; z-index: 1000; justify-content: center; }
+        .nav-btn { cursor: pointer; border: 1px solid #ccc; background: #fff; padding: 8px 15px; font-family: inherit; font-weight: bold; transition: 0.3s; }
+        .nav-btn:hover { background: #000; color: #fff; }
+
+        .year-section { scroll-margin-top: 80px; margin-top: 60px; }
+        .year-title { font-size: 1.8rem; border-bottom: 2px solid #333; padding-bottom: 5px; margin-bottom: 20px; display: flex; align-items: baseline; }
+        .count { font-size: 1rem; font-weight: normal; margin-left: 15px; color: #888; }
+        
+        .pub-item { margin-bottom: 30px; }
+        .pub-title { font-weight: bold; font-size: 1.15rem; display: block; color: #000; }
+        .pub-authors { margin: 5px 0; color: #444; }
+        .pub-journal { font-style: italic; }
+        .pub-doi { color: #0000EE; text-decoration: none; font-size: 0.9rem; }
+        .pub-doi:hover { text-decoration: underline; }
+        
+        @media (max-width: 600px) { h1 { font-size: 1.8rem; } .nav-btn { font-size: 0.8rem; } }
+    </style>
+</head>
+<body>
+    <div class="header-area">
+        <h1>Publications</h1>
+        <div id="total-stats">Processing data...</div>
+    </div>
+
+    <div id="nav-tabs"></div>
+    <div id="pub-container"></div>
+
+    <script>
+        async function init() {
+            try {
+                const response = await fetch('./_data/publications.yml');
+                const yamlText = await response.text();
+                const data = jsyaml.load(yamlText);
+
+                let total = 0;
+                let tabsHtml = '';
+                let listHtml = '';
+
+                data.forEach(group => {
+                    total += group.items.length;
+                    tabsHtml += `<button class="nav-btn" onclick="document.getElementById('y-${group.year}').scrollIntoView({behavior:'smooth'})">${group.year} (${group.items.length})</button>`;
+                    
+                    listHtml += `<section id="y-${group.year}" class="year-section">
+                        <div class="year-title">${group.year} <span class="count">${group.items.length} papers</span></div>`;
+                    
+                    group.items.forEach(item => {
+                        listHtml += `<div class="pub-item">
+                            <span class="pub-title">${item.title}</span>
+                            <div class="pub-authors">${item.authors}</div>
+                            <div class="pub-journal"><strong>${item.journal}</strong>, ${item.year}</div>
+                            <a href="${item.url}" target="_blank" class="pub-doi">DOI: ${item.doi}</a>
+                        </div>`;
+                    });
+                    listHtml += `</section>`;
+                });
+
+                document.getElementById('total-stats').innerText = `Total ${total} peer-reviewed publications`;
+                document.getElementById('nav-tabs').innerHTML = tabsHtml;
+                document.getElementById('pub-container').innerHTML = listHtml;
+            } catch (e) {
+                document.getElementById('total-stats').innerText = "Error loading publications.";
+            }
+        }
+        window.onload = init;
+    </script>
+</body>
+</html>
