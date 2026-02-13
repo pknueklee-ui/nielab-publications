@@ -1,0 +1,972 @@
+- title: Zwitterionic Fluoropolymer‐Engineered Synaptic Clefts Enhance Ion Dynamics
+    in Neuromorphic OECTs
+  authors: Ji Seon Kim, Young Je Kwon, Jung‐Hye Song, Yoon Ah Im, Dong Jun Han, Ho
+    Jin Jung, Kie Yong Cho, Eun Kwang Lee
+  journal: Advanced Materials Technologies
+  year: 2026
+  volume: '11'
+  issue: '2'
+  doi: 10.1002/admt.202501662
+  url: https://doi.org/10.1002/admt.202501662
+  abstract: "Abstract\n                  \n                    Organic electrochemical\
+    \ transistors (OECTs) offer a compelling platform for hardware synapses, yet ion\
+    \ transport through the common semi‐crystalline PVDF‐HFP electrolyte suppresses\
+    \ switching speed and energy efficiency. Here, DPVDF‐SZ, a soft zwitterionic fluoropolymer\
+    \ ion gel engineered by grafting sulfobetaine side chains onto a flexible PVDF‐CTFE\
+    \ backbone, is introduced. Crystallinity drops to ≈3%, and fracture strain rises\
+    \ to 84%. Paired with PEDOT:PSS, DPVDF‐SZ achieves a\n                    µC\n\
+    \                    * of 127 F V\n                    −1\n                  \
+    \  s\n                    −1\n                     cm\n                    −1\n\
+    \                    —where\n                    µC\n                    * is\
+    \ the product of charge carrier mobility and volumetric capacitance—while tripling\
+    \ transconductance and reducing the threshold voltage by 0.3 V under sub −1.5 V\
+    \ operation. Soft zwitterionic interfaces deliver &gt;90% current retention after\
+    \ 70 pulses, linear bidirectional weight updates across 60 write/erase cycles,\
+    \ and tunable paired‐pulse plasticity. In a 4 × 4 OECT reservoir array, DPVDF‐SZ\
+    \ classifies temporal pulse patterns and reconstructs 16 × 16 images with minimal\
+    \ energy. DPVDF‐SZ‐based OECTs address signal retention and ion migration challenges,\
+    \ enabling efficient neuromorphic systems and potentially bridging AI with biological\
+    \ neural processing."
+  article_number: e01662
+- title: Highly aligned polymer nanowire-based fin architecture for enhanced functionality
+    of organic electrochemical transistors in neuromorphic computing
+  authors: Yonghee Kim, Wonbeen Jeong, Eun Kwang Lee, Jiyoul Lee
+  journal: Journal of Materials Chemistry C
+  year: 2026
+  volume: '14'
+  issue: '2'
+  doi: 10.1039/D5TC03449C
+  url: https://doi.org/10.1039/D5TC03449C
+  abstract: Aligned polymer nanowires in organic transistors achieve highly linear
+    synaptic plasticity by enhancing interactions between conjugated polymer and ion–gel
+    electrolytes, enabling efficient neuromorphic computing.
+  article_number: ''
+- title: 'Advances in Organic In‐Sensor Neuromorphic Computing: from Material Mechanisms
+    to Applications'
+  authors: Dong Hyun Lee, Woojo Kim, Eun Kwang Lee, Hocheon Yoo
+  journal: Advanced Intelligent Discovery
+  year: 2025
+  volume: '1'
+  issue: '3'
+  doi: 10.1002/aidi.202500053
+  url: https://doi.org/10.1002/aidi.202500053
+  abstract: In‐sensor neuromorphic computing integrates sensing and processing within
+    a single material system, enabling real‐time, ultralow‐power computation for biomedical
+    signal analysis, artificial skin, and brain‐machine interfaces. Organic sensors,
+    organic electrochemical transistors, and memory‐based synaptic devices serve as
+    key components, utilizing ion–electron coupling and nonvolatile synaptic weight
+    modulation for energy‐efficient neuromorphic functions. Reflecting the potential
+    of the aforementioned in‐sensor computing, this review provides a comprehensive
+    analysis of organic‐based in‐sensor computing for wearable and bioelectronic applications.
+    It explores the design and mechanisms of organic synaptic devices, with a focus
+    on memory‐based and organic electrochemical transistor‐based architectures. The
+    fundamental principles of neuromorphic computing are examined, highlighting various
+    organic neuromorphic computing devices and their operational characteristics.
+    Through an in‐depth discussion of recent advancements, challenges, and future
+    perspectives, this review aims to offer valuable insights into the potential of
+    organic electronics in advancing intelligent systems.
+  article_number: e202500053
+- title: 'Advances in Organic In‐Sensor Neuromorphic Computing: from Material Mechanisms
+    to Applications'
+  authors: Dong Hyun Lee, Woojo Kim, Eun Kwang Lee, Hocheon Yoo
+  journal: Advanced Intelligent Discovery
+  year: 2025
+  volume: '1'
+  issue: '3'
+  doi: 10.1002/aidi.70059
+  url: https://doi.org/10.1002/aidi.70059
+  abstract: ''
+  article_number: e70059
+- title: Enhanced Photocurrent of Electrodeposited Copper Oxide Films Doped with Solution-Processable
+    Organic Cationic Dye as a Dopant
+  authors: Hye Won Lee, Jiyoul Lee, Eun Kwang Lee
+  journal: Korean Journal of Chemical Engineering
+  year: 2025
+  volume: '42'
+  issue: '13'
+  doi: 10.1007/s11814-025-00533-x
+  url: https://doi.org/10.1007/s11814-025-00533-x
+  abstract: ''
+  article_number: ''
+- title: 'Detachable and Reusable: Reinforced π‐Ion Film for Modular Synaptic Reservoir
+    Computing'
+  authors: Gyu Won Woo, Chang Min Lee, Won Woo Lee, Min Ju Jung, Seung Min Lee, Hye
+    Won Lee, Hocheon Yoo, Yong Hee Kim, Eun Kwang Lee
+  journal: Advanced Materials
+  year: 2025
+  volume: '37'
+  issue: '41'
+  doi: 10.1002/adma.202506729
+  url: https://doi.org/10.1002/adma.202506729
+  abstract: AbstractOrganic electrochemical transistors (OECTs) show significant promise
+    for bioelectronics and neuromorphic computing applications due to their low operating
+    voltage, biocompatibility, and ion‐mediated charge transport. However, conventional
+    OECTs with permanently fixed organic semiconductor (OSC) layers lack modularity
+    and reusability for sustainable electronics with e‐waste reduction. Here, a novel
+    reinforced π‐ion film OECT featuring a detachable and reusable OSC layer that
+    creates a unified composite with dielectric and gate components, establishing
+    a new paradigm for modular device architectures is proposed. Through solvent exchange
+    and mesh‐supported gelation, π‐ion film exhibits enhanced mechanical stability,
+    detachability, and superior electrical performance. The OECTs demonstrate remarkable
+    35‐day air stability, 50‐day storage lifetime, and over 80% performance retention
+    after 600 electrical cycles. Furthermore, the π‐ion film OECTs exhibit synaptic
+    behavior with paired‐pulse facilitation of 167% and long‐term memory retention
+    of 34% maintained synaptic current after 250 s. These characteristics enable reservoir
+    computing applications with a 4‐bit encoding scheme for image recognition, processing
+    16 × 16 pixelated input patterns, demonstrating reliable state differentiation
+    and stable signal retention. Even at lab‐scale development, reinforced π‐ion film
+    OECTs represent a promising eco‐friendly platform for modular, reusable components
+    in next‐generation neuromorphic computing systems, aligning with electronic waste
+    reduction policies by enabling component reuse.
+  article_number: '2506729'
+- title: Highly Efficient n‐Type Doped Single‐Crystalline Perylene Diimide Microwires
+    via Solution Processing for High‐Performance Photosensors and Photo‐Neuromorphic
+    Devices
+  authors: Yonghee Kim, Hye Won Lee, Min Ju Jung, Sangwook Lee, Joon Hak Oh, Eun Kwang
+    Lee
+  journal: Advanced Materials Technologies
+  year: 2025
+  volume: '10'
+  issue: '18'
+  doi: 10.1002/admt.202500681
+  url: https://doi.org/10.1002/admt.202500681
+  abstract: AbstractSolution‐processed organic single‐crystal semiconductors (OSCSs)
+    with high charge transport properties are being actively studied. However, OSCSs
+    show relatively low intrinsic conductivity in electronic devices compared to inorganic
+    semiconductors. This problem can be solved through doping technology applied to
+    OSCSs. In this study, the enhancement of conductivity and photosensitivity of
+    n‐type OSCS microwires (MWs) based on a small molecular semiconductor and an n‐type
+    organic cationic dye‐based dopant is reported. Transmission and scanning electron
+    microscopy show the attachment of n‐type dopants to the terrace edge of OSCS MWs,
+    enabling rapid electron transfer and strong interaction. The n‐type doped OSCS
+    MWs show enhanced conductivity and high optoelectronic properties, exhibiting
+    5,000 times improved photoresponsivity of 1.86 × 104 A W−1 compared to the OSC
+    films fabricated by a thermal evaporation method. Furthermore, the fast photo‐response
+    time of n‐type doped OSCS MW is measured to be 0.16 s. In addition, the high‐performance
+    photo‐neuromorphic characteristics using the hole trap effect of cationic dye
+    and applications including Pavlov's dog phenomenon showing conditioned reflex
+    characteristics and image recognition using 4‐bit reservoir encoding are demonstrated.
+    The developed high‐performance organic photoelectronic devices in this study can
+    be utilized as essential components in future advanced artificial intelligence
+    electronic devices applied to image sensing and optical communications.
+  article_number: e00681
+- title: Tailored phase separation in P3HT:PS blends for enhanced synaptic performance
+    in organic electrochemical transistors
+  authors: Seung Hwan Chung, Jeong Hye Song, Won Woo Lee, Hocheon Yoo, Hyo-Ryoung
+    Lim, Eun Kwang Lee
+  journal: Synthetic Metals
+  year: 2025
+  volume: '314'
+  issue: ''
+  doi: 10.1016/j.synthmet.2025.117919
+  url: https://doi.org/10.1016/j.synthmet.2025.117919
+  abstract: ''
+  article_number: '117919'
+- title: Preparation of polyurethane sulfonate films as a motion sensing substrate
+    with the compliant coating of PEDOT:PSS
+  authors: Sung Moon Park, Seung Min Lee, Young Je Kwon, Kie Yong Cho, Soaram Kim,
+    Eun Kwang Lee
+  journal: Macromolecular Research
+  year: 2025
+  volume: '33'
+  issue: '8'
+  doi: 10.1007/s13233-025-00401-x
+  url: https://doi.org/10.1007/s13233-025-00401-x
+  abstract: ''
+  article_number: ''
+- title: Visible-Light-Responsive Organic Synaptic Devices Based on Rhodamine B-Doped
+    Source-Gated Transistors
+  authors: Yonghee Kim, Chang Min Lee, Eun Kwang Lee
+  journal: ACS Applied Materials &amp; Interfaces
+  year: 2025
+  volume: '17'
+  issue: '26'
+  doi: 10.1021/acsami.5c07717
+  url: https://doi.org/10.1021/acsami.5c07717
+  abstract: ''
+  article_number: ''
+- title: A Self-powered Kinetic Motion Sensor Fabricated from Electrospun MOF-5/PVDF-TrFE
+    Composites Piezoelectric Nanogenerators
+  authors: Moon Sik Park, Min Ji Kim, Ju Yeong Jeong, Do Young Han, Soaram Kim, Geon-Tae
+    Hwang, Hocheon Yoo, Eun Kwang Lee
+  journal: Macromolecular Research
+  year: 2025
+  volume: '33'
+  issue: '4'
+  doi: 10.1007/s13233-024-00341-y
+  url: https://doi.org/10.1007/s13233-024-00341-y
+  abstract: ''
+  article_number: ''
+- title: Enhancement of Synaptic Behavior in Organic Electrochemical Transistors via
+    the Introduction of Layer‐by‐Layer Grown Metal‐Organic Framework
+  authors: Sung Moon Park, Yousang Won, Joon Hak Oh, Eun Kwang Lee
+  journal: Advanced Materials Technologies
+  year: 2025
+  volume: '10'
+  issue: '6'
+  doi: 10.1002/admt.202401316
+  url: https://doi.org/10.1002/admt.202401316
+  abstract: "Abstract\n                  \n                    Organic electrochemical\
+    \ transistors (OECTs) are promising for neuromorphic architectures as they can\
+    \ generate multiple electrical states through the control of ion transport. However,\
+    \ conventional OECTs face limitations in mimicking a fully functional biological\
+    \ synapse due to their inability to achieve long‐term plasticity. In this study,\
+    \ a metal‐organic framework (MOF)‐enhanced OECT (MOECT) is fabricated by introducing\
+    \ MOF into the ion‐organic semiconductor (OSC) layer. MOFs are synthesized using\
+    \ the layer‐by‐layer (LBL) method, and additional cross‐linked OSC is introduced\
+    \ to prevent damage to the semiconductor layers during synthesis. The synthesized\
+    \ MOF layers hinder the rediffusion of ions in OECT, allowing ions to remain in\
+    \ the OSC for an extended period. In this study, the MOECT showed a change in\
+    \ current depending on the doping level, recording a current state 4.4 × 10\n\
+    \                    7\n                    times higher than that of pristine\
+    \ OECT. Ultimately, the developed MOECTs are applied as synaptic transistors.\
+    \ MOECTs show 14% higher excitatory postsynaptic current (EPSC) after 130 s compared\
+    \ to pristine OECT, thereby strengthening the long‐term plasticity characteristics\
+    \ of neuromorphic devices. This method enhances the performance of synaptic transistors\
+    \ by introducing MOF, offering various possibilities through the selection of\
+    \ different MOF structures and ions, indicating it is a methodological approach\
+    \ with high potential."
+  article_number: '2401316'
+- title: High‐Performance Synaptic Devices Based on Cross‐linked Organic Electrochemical
+    Transistors with Dual Ion Gel
+  authors: Chang Min Lee, Yonghee Kim, Woojo Kim, Eunho Lee, Eun Kwang Lee
+  journal: Advanced Functional Materials
+  year: 2025
+  volume: '35'
+  issue: '12'
+  doi: 10.1002/adfm.202417539
+  url: https://doi.org/10.1002/adfm.202417539
+  abstract: "Abstract\n                  \n                    Organic electrochemical\
+    \ transistors (OECTs) represent a promising approach for flexible, wearable, biomedical\
+    \ electronics, and sensors integrated with diverse substrates. Their ability to\
+    \ operate at low voltages and interact effectively with biological systems makes\
+    \ them particularly suitable for neuromorphic applications. For neuromorphic devices,\
+    \ OECTs must enhance electrical performance, biocompatibility, and signal storage/erasure\
+    \ capabilities. While UV cross‐linking methods with various side effects on organic\
+    \ semiconductors are predominant in improving mobility and current retention time,\
+    \ thermal cross‐linking based on the solution process has not been extensively\
+    \ explored. Additionally, despite significant research on the modification of\
+    \ electrolyte property, the ionic charge compensation mechanisms between multiple\
+    \ electrolytes are still unclear. This study employs a cross‐linking strategy\
+    \ involving the chemical reaction of poly(3‐hexylthiophene‐2,5‐diyl) (P3HT) with\
+    \ di‐tert‐butyl‐peroxide (DTBP) to create a cross‐linked P3HT active layer. Furthermore,\
+    \ a dual ion gel structure combining a conventional ion gel with a chitosan‐based\
+    \ ion gel is investigated for increased ionic transport to enhance OECT performance.\
+    \ Using the above two methods, the enhanced electrical performance showing the\
+    \ mobility of 25 F cm\n                    −1\n                    V\n       \
+    \             −1\n                    s\n                    −1\n            \
+    \        and synaptic properties showing long‐term plasticity of cross‐linked\
+    \ OECTs with a dual ion gel structure are demonstrated, suggesting their potential\
+    \ application as high‐performance neuromorphic devices."
+  article_number: '2417539'
+- title: Ultraviolet Photodetector Fabrication with Low‐Power Dissipation Based on
+    Organic Suboptimal Source‐Gated Transistor Architecture and MoO3‐Doped Pentacene
+  authors: Min Ju Jung, Yonghee Kim, Kang‐Jun Baeg, Eun Kwang Lee
+  journal: Small
+  year: 2025
+  volume: '21'
+  issue: '2'
+  doi: 10.1002/smll.202408772
+  url: https://doi.org/10.1002/smll.202408772
+  abstract: AbstractOrganic field‐effect transistor (OFET)‐based photodetectors have
+    been extensively studied owing to their potential applications in various fields,
+    such as imaging, communication, and environmental monitoring. However, the traditional
+    OFET structure brings about high power consumption. Furthermore, their low electrical
+    performance and light sensitivity must be improved to detect harmful UV rays that
+    accelerate skin aging and cause vision degradation. One strategy to fabricate
+    high‐performance phototransistors involves the introduction of molybdenum trioxide
+    (MoO3), which serves as a dopant for pentacene, aiming to enhance electrical performance
+    by increasing mobility and decreasing threshold voltage. In addition, the photoreactivity
+    of MoO3 in the UV spectrum is utilized to achieve enhanced light responsivity.
+    In this work, a suboptimal source‐gated transistor (sSGT) is introduced instead
+    of a conventional OFET to exploit the work function difference between two electrodes
+    and the active layer to achieve low‐power consumption. The power of the sSGT is
+    1000 times lower than that of the OFET, demonstrating the low‐power consumption.
+    The findings indicate the potential fabrication method of high‐performance UV
+    phototransistors with low‐power consumption induced by incorporating the MoO3
+    and sSGT structure.
+  article_number: '2408772'
+- title: Aligned conjugated polymer nanowires for enhanced performance in organic
+    transistors and neuromorphic devices
+  authors: Wonbeen Jeong, Jin Seok Yoon, Yonghee Kim, Eun Kwang Lee, Young Tea Chun,
+    Jiyoul Lee
+  journal: Nanoscale
+  year: 2025
+  volume: '17'
+  issue: '43'
+  doi: 10.1039/D5NR03612G
+  url: https://doi.org/10.1039/D5NR03612G
+  abstract: "Aligned PBTTT-C\n                    14\n                    nanowires\
+    \ fabricated\n                    via\n                    PDMS-guided edge-accumulation\
+    \ show enhanced molecular order, improved electrolyte interaction, and markedly\
+    \ boosted OECT and synaptic device performance."
+  article_number: ''
+- title: Improved neuromorphic functionality in organic electrochemical transistors
+    using crosslinked-polyvinyl alcohol for fast ion transport and its application
+    to Pavlovian transistors
+  authors: Seung Hwan Song, Jeong Hye Song, Jisoo Park, Hocheon Yoo, Eun Kwang Lee
+  journal: Journal of Materials Chemistry C
+  year: 2025
+  volume: '13'
+  issue: '32'
+  doi: 10.1039/D5TC01475A
+  url: https://doi.org/10.1039/D5TC01475A
+  abstract: Cross-linked polyvinyl alcohol (CX-PVA) enhances ion transport in OECTs,
+    boosting transconductance, switching speed, and synaptic plasticity, thereby advancing
+    neuromorphic computing and bioelectronic applications.
+  article_number: ''
+- title: Kinetic swelling-driven PTG interlayers for enhanced crystallinity and charge
+    transport in polymer OECTs
+  authors: Jeong Hye Song, Yonghee Kim, Hocheon Yoo, Eun Kwang Lee
+  journal: Journal of Materials Chemistry C
+  year: 2025
+  volume: '13'
+  issue: '34'
+  doi: 10.1039/D5TC01098E
+  url: https://doi.org/10.1039/D5TC01098E
+  abstract: Engineering a PVA-based interlayer substantially enhances OSC crystal
+    growth. This results in advanced synaptic functions and a 7.2-fold performance
+    increase in organic transistors for neuromorphic systems.
+  article_number: ''
+- title: Organic Electrochemical Transistors with Microporous Structures via Phase‐Separation
+    for Enhancing Long‐Term Plasticity in Artificial Synapses
+  authors: Hui Su Yang, Woojo Kim, Hocheon Yoo, Eun Kwang Lee
+  journal: Advanced Materials Technologies
+  year: 2024
+  volume: '9'
+  issue: '24'
+  doi: 10.1002/admt.202400478
+  url: https://doi.org/10.1002/admt.202400478
+  abstract: 'AbstractArtificial synapses, inspired by the intricate design of biological
+    synapses, utilize electrical, chemical, and mechanical signals to transmit and
+    retain information. Recent advances have involved research on artificial synapses
+    based on organic electrochemical transistors (OECTs), emphasizing low power consumption
+    and rapid response times. A notable challenge arises when the gate voltage is
+    removed, causing doped ions to return quickly to the electrolyte. A simple yet
+    efficient approach is used to solve this problem: forming a microporous active
+    layer using a phase separation method. This technique can maximize the contact
+    area between the electrolyte and the active layer, enhancing ion doping/de‐doping
+    in OECTs. Improvements in the product of hole mobility and volumetric capacitance
+    is achieved. The electrostatic coupling effect and electrochemical doping in synaptic
+    OECTs occur better than in the pristine active layer, yielding enhanced performance
+    with higher short‐term and long‐term synaptic plasticity, compared to pristine
+    OECTs. Moreover, improved ambipolar characteristics is shown by n‐dopant injection.
+    This paper reports a way to improve performance by simply modifying the surface
+    shape of the active layer using the phase separation, contributing to advancements
+    in artificial synapses for neural networks.'
+  article_number: '2400478'
+- title: Controlling Long-Term Plasticity in Neuromorphic Computing Through Modulation
+    of Ferroelectric Polarization
+  authors: Donghwa Lee, Junho Sung, Minhui Kim, Na-Hyeon Kim, Seonggyu Lee, Hee-Young
+    Lee, Eun Kwang Lee, Dongyeong Jeong, Eunho Lee
+  journal: ACS Applied Materials &amp; Interfaces
+  year: 2024
+  volume: '16'
+  issue: '43'
+  doi: 10.1021/acsami.4c11731
+  url: https://doi.org/10.1021/acsami.4c11731
+  abstract: ''
+  article_number: ''
+- title: Enhancing Stability of n-Type Doped Organic Semiconductors through Low Boiling
+    Point Solvent-Assisted Room Temperature Drying
+  authors: Da Eun Lee, Joon Hak Oh, Eun Kwang Lee
+  journal: ACS Applied Materials &amp; Interfaces
+  year: 2024
+  volume: '16'
+  issue: '38'
+  doi: 10.1021/acsami.4c08461
+  url: https://doi.org/10.1021/acsami.4c08461
+  abstract: ''
+  article_number: ''
+- title: PEDOT:PSS‐Based Prolonged Long‐Term Decay Synaptic OECT with Proton‐Permeable
+    Material, Nafion
+  authors: Ye Ji Lee, Yong Hyun Kim, Eun Kwang Lee
+  journal: Macromolecular Rapid Communications
+  year: 2024
+  volume: '45'
+  issue: '17'
+  doi: 10.1002/marc.202400165
+  url: https://doi.org/10.1002/marc.202400165
+  abstract: AbstractPoly(3,4‐ethylenedioxythiophene):polystyrene sulfonate (PEDOT:PSS),
+    a conductive polymer, has gained popularity as the channel layer in organic electrochemical
+    transistors (OECTs) due to its high conductivity and straightforward processing.
+    However, difficulties arise in controlling its conductivity through gate voltage,
+    presenting a challenge. To address this issue, aromatic amidine base, diazabicyclo[4.3.0]non‐5‐ene
+    (DBN), is used to stabilize the doping state of the PEDOT chain through a reliable
+    chemical de‐doping process. Furthermore, the addition of the proton‐penetrable
+    material Nafion to the PEDOT:PSS channel layer induces phase separation between
+    the substances. By utilizing a solution containing both PEDOT:PSS and Nafion as
+    the channel layer of OECTs, the efficiency of ion movement into the channel from
+    the electrolyte is enhanced, resulting in improved OECT performance. The inclusion
+    of Nafion in the OECTs’ channel layer modifies ion movement dynamics, allowing
+    for the adjustment of synaptic properties such as pulse‐paired facilitation, memory
+    level, short‐term plasticity, and long‐term plasticity. This research aims to
+    introduce new possibilities in the field of neuromorphic computing and contribute
+    to biomimetic technology through the enhancement of electronic component performance.
+  article_number: '2400165'
+- title: n-Type Doping Effect of Anthracene-Based Cationic Dyes in Organic Electronics
+  authors: Yonghee Kim, Minju Jung, Rajeev Kumar, Jeong-Mo Choi, Eun Kwang Lee, Jiyoul
+    Lee
+  journal: ACS Applied Materials &amp; Interfaces
+  year: 2024
+  volume: '16'
+  issue: '33'
+  doi: 10.1021/acsami.4c05952
+  url: https://doi.org/10.1021/acsami.4c05952
+  abstract: ''
+  article_number: ''
+- title: Enhanced synaptic behavior of neuromorphic device based on organic electrochemical
+    transistors by adding Aminosilane
+  authors: Dae-Hee Kim, Jiyoul Lee, Yonghee Kim, Hocheon Yoo, Eun Kwang Lee
+  journal: Organic Electronics
+  year: 2024
+  volume: '131'
+  issue: ''
+  doi: 10.1016/j.orgel.2024.107076
+  url: https://doi.org/10.1016/j.orgel.2024.107076
+  abstract: ''
+  article_number: '107076'
+- title: Hardware-based security devices using a physical unclonable function created
+    by the irregular grain boundaries found in perovskite calcium titanate
+  authors: Subin Lee, Eun Kwang Lee, Byung Chul Jang, Hocheon Yoo
+  journal: Journal of Alloys and Compounds
+  year: 2023
+  volume: '969'
+  issue: ''
+  doi: 10.1016/j.jallcom.2023.172329
+  url: https://doi.org/10.1016/j.jallcom.2023.172329
+  abstract: ''
+  article_number: '172329'
+- title: 'Interconnection Technologies for Flexible Electronics: Materials, Fabrications,
+    and Applications'
+  authors: Ratul Kumar Baruah, Hocheon Yoo, Eun Kwang Lee
+  journal: Micromachines
+  year: 2023
+  volume: '14'
+  issue: '6'
+  doi: 10.3390/mi14061131
+  url: https://doi.org/10.3390/mi14061131
+  abstract: Flexible electronic devices require metal interconnects to facilitate
+    the flow of electrical signals among the device components, ensuring its proper
+    functionality. There are multiple factors to consider when designing metal interconnects
+    for flexible electronics, including their conductivity, flexibility, reliability,
+    and cost. This article provides an overview of recent endeavors to create flexible
+    electronic devices through different metal interconnect approaches, with a focus
+    on materials and structural aspects. Additionally, the article discusses emerging
+    flexible applications, such as e-textiles and flexible batteries, as essential
+    considerations.
+  article_number: ''
+- title: New Opportunities for Organic Semiconducting Polymers in Biomedical Applications
+  authors: Kyunghun Kim, Hocheon Yoo, Eun Kwang Lee
+  journal: Polymers
+  year: 2022
+  volume: '14'
+  issue: '14'
+  doi: 10.3390/polym14142960
+  url: https://doi.org/10.3390/polym14142960
+  abstract: The life expectancy of humans has been significantly elevated due to advancements
+    in medical knowledge and skills over the past few decades. Although a lot of knowledge
+    and skills are disseminated to the general public, electronic devices that quantitatively
+    diagnose one’s own body condition still require specialized semiconductor devices
+    which are huge and not portable. In this regard, semiconductor materials that
+    are lightweight and have low power consumption and high performance should be
+    developed with low cost for mass production. Organic semiconductors are one of
+    the promising materials in biomedical applications due to their functionalities,
+    solution-processability and excellent mechanical properties in terms of flexibility.
+    In this review, we discuss organic semiconductor materials that are widely utilized
+    in biomedical devices. Some advantageous and unique properties of organic semiconductors
+    compared to inorganic semiconductors are reviewed. By critically assessing the
+    fabrication process and device structures in organic-based biomedical devices,
+    the potential merits and future aspects of the organic biomedical devices are
+    pinpointed compared to inorganic devices.
+  article_number: ''
+- title: Blended Polymer Dry Electrodes for Reliable Electrocardiogram and Electromyogram
+    Measurements and Their Eco-Friendly Disposal Led by Degradability in Hot Water
+  authors: Dong Hyun Lee, Eun Kwang Lee, Chae Hyun Kim, Hyung Joong Yun, Young-Joon
+    Kim, Hocheon Yoo
+  journal: Polymers
+  year: 2022
+  volume: '14'
+  issue: '13'
+  doi: 10.3390/polym14132586
+  url: https://doi.org/10.3390/polym14132586
+  abstract: To increase the human lifespan, healthcare monitoring devices that diagnose
+    diseases and check body conditions have attracted considerable interest. Commercial
+    AgCl-based wet electrodes with the advantages of high conductivity and strong
+    adaptability to human skin are considered the most frequently used electrode material
+    for healthcare monitoring. However, commercial AgCl-based wet electrodes, when
+    exposed for a long period, cause an evaporation of organic solvents, which could
+    reduce the signal-to-noise ratio of biosignals and stimulate human skin. In this
+    context, we demonstrate a dry electrode for a poly(3,4-ethylenedioxythiophene):poly(styrenesulfonate)
+    (PEDOT:PSS)-based blended polymer electrode using a combination of PEDOT:PSS,
+    waterborne polyurethane (WPU) and ethylene glycol (EG) that could be reused for
+    a long period of time to detect electrocardiography (ECG) and electromyography
+    (EMG). Both ECG and EMG are reliably detected by the wireless real-time monitoring
+    system. In particular, the proposed dry electrode detects biosignals without deterioration
+    for over 2 weeks. Additionally, a double layer of a polyimide (PI) substrate and
+    fluorinated polymer CYTOP induces the strong waterproof characteristics of external
+    liquids for the proposed dry electrodes, having a low surface energy of 14.49
+    mN/m. In addition, the proposed electrode has excellent degradability in water;
+    it dissolves in hot water at 60 °C.
+  article_number: ''
+- title: Transparent and Flexible Vibration Sensor Based on a Wheel-Shaped Hybrid
+    Thin Membrane
+  authors: Siyoung Lee, Eun Lee, Eunho Lee, Geun Bae
+  journal: Micromachines
+  year: 2021
+  volume: '12'
+  issue: '10'
+  doi: 10.3390/mi12101246
+  url: https://doi.org/10.3390/mi12101246
+  abstract: With the advent of human–machine interaction and the Internet of Things,
+    wearable and flexible vibration sensors have been developed to detect human voices
+    and surrounding vibrations transmitted to humans. However, previous wearable vibration
+    sensors have limitations in the sensing performance, such as frequency response,
+    linearity of sensitivity, and esthetics. In this study, a transparent and flexible
+    vibration sensor was developed by incorporating organic/inorganic hybrid materials
+    into ultrathin membranes. The sensor exhibited a linear and high sensitivity (20
+    mV/g) and a flat frequency response (80–3000 Hz), which are attributed to the
+    wheel-shaped capacitive diaphragm structure fabricated by exploiting the high
+    processability and low stiffness of the organic material SU-8 and the high conductivity
+    of the inorganic material ITO. The sensor also has sufficient esthetics as a wearable
+    device because of the high transparency of SU-8 and ITO. In addition, the temperature
+    of the post-annealing process after ITO sputtering was optimized for the high
+    transparency and conductivity. The fabricated sensor showed significant potential
+    for use in transparent healthcare devices to monitor the vibrations transmitted
+    from hand-held vibration tools and in a skin-attachable vocal sensor.
+  article_number: ''
+- title: 'Self-Powered Sensors: New Opportunities and Challenges from Two-Dimensional
+    Nanomaterials'
+  authors: Eunkwang Lee, Hocheon Yoo
+  journal: Molecules
+  year: 2021
+  volume: '26'
+  issue: '16'
+  doi: 10.3390/molecules26165056
+  url: https://doi.org/10.3390/molecules26165056
+  abstract: 'Nanomaterials have gained considerable attention over the last decade,
+    finding applications in emerging fields such as wearable sensors, biomedical care,
+    and implantable electronics. However, these applications require miniaturization
+    operating with extremely low power levels to conveniently sense various signals
+    anytime, anywhere, and show the information in various ways. From this perspective,
+    a crucial field is technologies that can harvest energy from the environment as
+    sustainable, self-sufficient, self-powered sensors. Here we revisit recent advances
+    in various self-powered sensors: optical, chemical, biological, medical, and gas.
+    A timely overview is provided of unconventional nanomaterial sensors operated
+    by self-sufficient energy, focusing on the energy source classification and comparisons
+    of studies including self-powered photovoltaic, piezoelectric, triboelectric,
+    and thermoelectric technology. Integration of these self-operating systems and
+    new applications for neuromorphic sensors are also reviewed. Furthermore, this
+    review discusses opportunities and challenges from self-powered nanomaterial sensors
+    with respect to their energy harvesting principles and sensing applications.'
+  article_number: ''
+- title: 'Advanced Materials and Assembly Strategies for Wearable Biosensors: A Review'
+  authors: Eun Kwang Lee, Hocheon Yoo, Chi Hwan Lee
+  journal: Biosensors - Current and Novel Strategies for Biosensing
+  year: 2021
+  volume: ''
+  issue: ''
+  doi: 10.5772/intechopen.94451
+  url: https://doi.org/10.5772/intechopen.94451
+  abstract: Recent technological advances of soft functional materials and their assembly
+    into wearable (i.e., on-skin) biosensors lead to the development of ground-breaking
+    biomedical applications ranging from wearable health monitoring to drug delivery
+    and to human-robot interactions. These wearable biosensors are capable of unobtrusively
+    interfacing with the human skin and enabling long-term reliable monitoring of
+    clinically useful biosignals associated with health and other conditions affecting
+    well-being. Scalable assembly of diverse wearable biosensors has been realized
+    through the elaborate combination of intrinsically stretchable materials including
+    organic polymers or/and low-dimensional inorganic nanomaterials. In this Chapter,
+    we review various types of wearable biosensors within the context of human health
+    monitoring with a focus of their constituent materials, mechanics designs, and
+    large-scale assembly strategies. In addition, we discuss the current challenges
+    and potential future research directions at the end of this chapter.
+  article_number: ''
+- title: 'Fused Aromatic Network Structures: Fused Aromatic Network with Exceptionally
+    High Carrier Mobility (Adv. Mater. 9/2021)'
+  authors: Javeed Mahmood, Eun Kwang Lee, Hyuk‐Jun Noh, Ishfaq Ahmad, Jeong‐Min Seo,
+    Yoon‐Kwang Im, Jong‐Pil Jeon, Seok‐Jin Kim, Joon Hak Oh, Jong‐Beom Baek
+  journal: Advanced Materials
+  year: 2021
+  volume: '33'
+  issue: '9'
+  doi: 10.1002/adma.202170063
+  url: https://doi.org/10.1002/adma.202170063
+  abstract: ''
+  article_number: '2170063'
+- title: Fused Aromatic Network with Exceptionally High Carrier Mobility
+  authors: Javeed Mahmood, Eun Kwang Lee, Hyuk‐Jun Noh, Ishfaq Ahmad, Jeong‐Min Seo,
+    Yoon‐Kwang Im, Jong‐Pil Jeon, Seok‐Jin Kim, Joon Hak Oh, Jong‐Beom Baek
+  journal: Advanced Materials
+  year: 2021
+  volume: '33'
+  issue: '9'
+  doi: 10.1002/adma.202004707
+  url: https://doi.org/10.1002/adma.202004707
+  abstract: AbstractRecently, studies of 2D organic layered materials with unique
+    electronic properties have generated considerable interest in the research community.
+    However, the development of organic materials with functional electrical transport
+    properties is still needed. Here, a 2D fused aromatic network (FAN) structure
+    with a C5N basal plane stoichiometry is designed and synthesized, and thin films
+    are cast from C5N solution onto silicon dioxide substrates. Then field‐effect
+    transistors are fabricated using C5N thin flakes as the active layer in a bottom‐gate
+    top‐contact configuration to characterize their electrical properties. The C5N
+    thin flakes, isolated by polydimethylsiloxane stamping, exhibit ambipolar charge
+    transport and extraordinarily high electron (996 cm2 V−1 s−1) and hole (501 cm2
+    V−1 s−1) mobilities, surpassing the performance of most pristine organic materials
+    without doping. These results demonstrate their vast potential for applications
+    in thin‐film optoelectronic devices.
+  article_number: '2004707'
+- title: Fractal Web Design of a Hemispherical Photodetector Array with Organic‐Dye‐Sensitized
+    Graphene Hybrid Composites
+  authors: Eun Kwang Lee, Ratul Kumar Baruah, Jung Woo Leem, Woohyun Park, Bong Hoon
+    Kim, Augustine Urbas, Zahyun Ku, Young L. Kim, Muhammad Ashraful Alam, Chi Hwan
+    Lee
+  journal: Advanced Materials
+  year: 2020
+  volume: '32'
+  issue: '46'
+  doi: 10.1002/adma.202004456
+  url: https://doi.org/10.1002/adma.202004456
+  abstract: AbstractThe vision system of arthropods consists of a dense array of individual
+    photodetecting elements across a curvilinear surface. This compound‐eye architecture
+    could be a useful model for optoelectronic sensing devices that require a large
+    field of view and high sensitivity to motion. Strategies that aim to mimic the
+    compound‐eye architecture involve integrating photodetector pixels with a curved
+    microlens, but their fabrication on a curvilinear surface is challenged by the
+    use of standard microfabrication processes that are traditionally designed for
+    planar, rigid substrates (e.g., Si wafers). Here, a fractal web design of a hemispherical
+    photodetector array that contains an organic‐dye‐sensitized graphene hybrid composite
+    is reported to serve as an effective photoactive component with enhanced light‐absorbing
+    capabilities. The device is first fabricated on a planar Si wafer at the microscale
+    and then transferred to transparent hemispherical domes with different curvatures
+    in a deterministic manner. The unique structural property of the fractal web design
+    provides protection of the device from damage by effectively tolerating various
+    external loads. Comprehensive experimental and computational studies reveal the
+    essential design features and optoelectronic properties of the device, followed
+    by the evaluation of its utility in the measurement of both the direction and
+    intensity of incident light.
+  article_number: '2004456'
+- title: 'Organic Electronics: Flexible Low‐Power Operative Organic Source‐Gated Transistors
+    (Adv. Funct. Mater. 27/2019)'
+  authors: Yonghee Kim, Eun Kwang Lee, Joon Hak Oh
+  journal: Advanced Functional Materials
+  year: 2019
+  volume: '29'
+  issue: '27'
+  doi: 10.1002/adfm.201970189
+  url: https://doi.org/10.1002/adfm.201970189
+  abstract: ''
+  article_number: '1970189'
+- title: 'Skin-Mountable Biosensors and Therapeutics: A Review'
+  authors: Eun Kwang Lee, Min Ku Kim, Chi Hwan Lee
+  journal: Annual Review of Biomedical Engineering
+  year: 2019
+  volume: '21'
+  issue: '1'
+  doi: 10.1146/annurev-bioeng-060418-052315
+  url: https://doi.org/10.1146/annurev-bioeng-060418-052315
+  abstract: Miniaturization of electronic components and advances in flexible and
+    stretchable materials have stimulated the development of wearable health care
+    systems that can reflect and monitor personal health status by health care professionals.
+    New skin-mountable devices that offer seamless contact onto the human skin, even
+    under large deformations by natural motions of the wearer, provide a route for
+    both high-fidelity monitoring and patient-controlled therapy. This article provides
+    an overview of several important aspects of skin-mountable devices and their applications
+    in many medical settings and clinical practices. We comprehensively describe various
+    transdermal sensors and therapeutic systems that are capable of detecting physical,
+    electrophysiological, and electrochemical responses and/or providing electrical
+    and thermal therapies and drug delivery services, and we discuss the current challenges,
+    opportunities, and future perspectives in the field. Finally, we present ways
+    to protect the embedded electronic components of skin-mountable devices from the
+    environment by use of mechanically soft packaging materials.
+  article_number: ''
+- title: Flexible Low‐Power Operative Organic Source‐Gated Transistors
+  authors: Yonghee Kim, Eun Kwang Lee, Joon Hak Oh
+  journal: Advanced Functional Materials
+  year: 2019
+  volume: '29'
+  issue: '27'
+  doi: 10.1002/adfm.201900650
+  url: https://doi.org/10.1002/adfm.201900650
+  abstract: AbstractLow‐voltage operation and fast switching ability are necessary
+    for wearable electronic devices. Recently, electrolyte dielectric materials have
+    been widely used to decrease driving voltages; however, they often exhibit unwanted
+    doping effects and power dissipation problems. Here, a method for dramatically
+    lowering driving voltages is reported in organic electronics via source‐gated
+    transistor (SGT) structures. SGTs are fabricated by evaporating asymmetric metals
+    with different work functions for the source and drain electrodes. Versatile organic
+    semiconductor‐based SGTs demonstrate a significantly lower drain voltage (&lt;10
+    V) for the saturation regime compared to that of typical field‐effect transistors
+    with the same dielectric layer (&gt;80 V). Furthermore, coating reduced Pyronin
+    B (rPyB) onto n‐type SGTs decreases the threshold voltage from 51.2 to 0.1 eV
+    and improves air‐stability, exhibiting a maintained electron mobility (&gt;90%)
+    for 40 d. The air‐stability is due to both the energetic and kinetic factors,
+    including a decreased lowest unoccupied molecular orbital level of the n‐type
+    semiconductor after doping and covering the active layer with rPyB. Finally, flexible
+    SGTs are fabricated on a Parylene‐C substrate that shows highly stable operation
+    in a bending test. The results demonstrate a promising technology for low‐power,
+    flexible electronic devices via electrode engineering.
+  article_number: '1900650'
+- title: Reduced Pyronin B as a solution-processable and heating-free n-type dopant
+    for soft electronics
+  authors: Eun Kwang Lee, Yonghee Kim, Jisu Back, Eunsung Lee, Joon Hak Oh
+  journal: Journal of Materials Chemistry C
+  year: 2018
+  volume: '6'
+  issue: '25'
+  doi: 10.1039/C8TC02094A
+  url: https://doi.org/10.1039/C8TC02094A
+  abstract: A heating-free and solution-processable molecular n-type dopant using
+    an organic cationic dye is demonstrated for graphene and organic electronics.
+  article_number: ''
+- title: 'Toward Environmentally Robust Organic Electronics: Approaches and Applications'
+  authors: Eun Kwang Lee, Moo Yeol Lee, Cheol Hee Park, Hae Rang Lee, Joon Hak Oh
+  journal: Advanced Materials
+  year: 2017
+  volume: '29'
+  issue: '44'
+  doi: 10.1002/adma.201703638
+  url: https://doi.org/10.1002/adma.201703638
+  abstract: AbstractRecent interest in flexible electronics has led to a paradigm
+    shift in consumer electronics, and the emergent development of stretchable and
+    wearable electronics is opening a new spectrum of ubiquitous applications for
+    electronics. Organic electronic materials, such as π‐conjugated small molecules
+    and polymers, are highly suitable for use in low‐cost wearable electronic devices,
+    and their charge‐carrier mobilities have now exceeded that of amorphous silicon.
+    However, their commercialization is minimal, mainly because of weaknesses in terms
+    of operational stability, long‐term stability under ambient conditions, and chemical
+    stability related to fabrication processes. Recently, however, many attempts have
+    been made to overcome such instabilities of organic electronic materials. Here,
+    an overview is provided of the strategies developed for environmentally robust
+    organic electronics to overcome the detrimental effects of various critical factors
+    such as oxygen, water, chemicals, heat, and light. Additionally, molecular design
+    approaches to π‐conjugated small molecules and polymers that are highly stable
+    under ambient and harsh conditions are explored; such materials will circumvent
+    the need for encapsulation and provide a greater degree of freedom using simple
+    solution‐based device‐fabrication techniques. Applications that are made possible
+    through these strategies are highlighted.
+  article_number: '1703638'
+- title: 'Organic Transistors: Chemically Robust Ambipolar Organic Transistor Array
+    Directly Patterned by Photolithography (Adv. Mater. 11/2017)'
+  authors: Eun Kwang Lee, Cheol Hee Park, Junghoon Lee, Hae Rang Lee, Changduk Yang,
+    Joon Hak Oh
+  journal: Advanced Materials
+  year: 2017
+  volume: '29'
+  issue: '11'
+  doi: 10.1002/adma.201770077
+  url: https://doi.org/10.1002/adma.201770077
+  abstract: ''
+  article_number: adma.201770077
+- title: Chemically Robust Ambipolar Organic Transistor Array Directly Patterned by
+    Photolithography
+  authors: Eun Kwang Lee, Cheol Hee Park, Junghoon Lee, Hae Rang Lee, Changduk Yang,
+    Joon Hak Oh
+  journal: Advanced Materials
+  year: 2017
+  volume: '29'
+  issue: '11'
+  doi: 10.1002/adma.201605282
+  url: https://doi.org/10.1002/adma.201605282
+  abstract: ''
+  article_number: '1605282'
+- title: Highly Flexible Organic Nanofiber Phototransistors Fabricated on a Textile
+    Composite for Wearable Photosensors
+  authors: Moo Yeol Lee, Jayeon Hong, Eun Kwang Lee, Hojeong Yu, Hyoeun Kim, Jea Uk
+    Lee, Wonoh Lee, Joon Hak Oh
+  journal: Advanced Functional Materials
+  year: 2016
+  volume: '26'
+  issue: '9'
+  doi: 10.1002/adfm.201503230
+  url: https://doi.org/10.1002/adfm.201503230
+  abstract: Highly flexible organic nanofiber phototransistors are fabricated on a
+    highly flexible poly(ethylene terephthalate) (PET) textile/poly(dimethylsiloxane)
+    (PDMS) composite substrate. Organic nanofibers are obtained by electrospinning,
+    using a mixture of poly(3,3″′‐didodecylquarterthiophene) (PQT‐12) and poly(ethylene
+    oxide) (PEO) as the semiconducting polymer and processing aid, respectively. PDMS
+    is used as both a buffer layer for flattening the PET textile and a dielectric
+    layer in the bottom‐gate bottom‐contact device configuration. PQT‐12:PEO nanofibers
+    can be well‐aligned on the textile composite substrate by electrospinning onto
+    a rotating drum collector. The nanofiber phototransistors fabricated on the PET/PDMS
+    textile composite substrate show highly stable device performance (on‐current
+    retention up to 82.3 (±6.7)%) under extreme bending conditions, with a bending
+    radius down to 0.75 mm and repeated tests over 1000 cycles, while those prepared
+    on film‐type PET and PDMS‐only substrates exhibit much poorer performances. The
+    photoresponsive behaviors of PQT‐12:PEO nanofiber phototransistors have been investigated
+    under light irradiation with different wavelengths. The maximum photoresponsivity,
+    photocurrent/dark‐current ratio, and external quantum efficiency under blue light
+    illumination were 930 mA W−1, 2.76, and 246%, respectively. Furthermore, highly
+    flexible 10 × 10 photosensor arrays have been fabricated which are able to detect
+    incident photonic signals with high resolution. The flexible photosensors described
+    herein have high potential for applications as wearable photosensors.
+  article_number: ''
+- title: Effects of microwave-assisted annealing on the morphology and electrical
+    performance of semiconducting polymer thin films
+  authors: Xiaobo Shang, Hojeong Yu, Wanuk Choi, Eun Kwang Lee, Joon Hak Oh
+  journal: Organic Electronics
+  year: 2016
+  volume: '30'
+  issue: ''
+  doi: 10.1016/j.orgel.2015.12.027
+  url: https://doi.org/10.1016/j.orgel.2015.12.027
+  abstract: ''
+  article_number: ''
+- title: Flexible Organic Phototransistor Array with Enhanced Responsivity via Metal–Ligand
+    Charge Transfer
+  authors: Xien Liu, Eun Kwang Lee, Dong Yeong Kim, Hojeong Yu, Joon Hak Oh
+  journal: ACS Applied Materials &amp; Interfaces
+  year: 2016
+  volume: '8'
+  issue: '11'
+  doi: 10.1021/acsami.5b11523
+  url: https://doi.org/10.1021/acsami.5b11523
+  abstract: ''
+  article_number: ''
+- title: "Two-dimensional polyaniline (C\n            3\n            N) from carbonized\
+    \ organic single crystals in solid state"
+  authors: Javeed Mahmood, Eun Kwang Lee, Minbok Jung, Dongbin Shin, Hyun-Jung Choi,
+    Jeong-Min Seo, Sun-Min Jung, Dongwook Kim, Feng Li, Myoung Soo Lah, Noejung Park,
+    Hyung-Joon Shin, Joon Hak Oh, Jong-Beom Baek
+  journal: Proceedings of the National Academy of Sciences
+  year: 2016
+  volume: '113'
+  issue: '27'
+  doi: 10.1073/pnas.1605318113
+  url: https://doi.org/10.1073/pnas.1605318113
+  abstract: "Significance\n          \n            Two-dimensional (2D) polyaniline\
+    \ (PANI) has been realized for the first time, to our knowledge, by direct solid-state\
+    \ reaction of organic single crystals. The 2D PANI framework consists of six nitrogen\
+    \ atoms that periodically surround a phenyl ring. Pristine 2D PANI (undoped) has\
+    \ electrical conductivity of 0.72 S/cm, which is 10\n            10\n        \
+    \    times higher than its linear analog (undoped, 6.28 × 10\n            −11\n\
+    \            S/cm). When it is doped by hydrochloric acid (HCl), its conductivity\
+    \ jumps to almost 1,960 times (1.41 × 10\n            3\n            S/cm). Due\
+    \ to its highest conductivity among organic materials, we very strongly believe\
+    \ that this well-defined 2D PANI and its heterogeneity with C and N elements will\
+    \ open up a new research field of layered 2D materials beyond linear PANI and\
+    \ other organic/inorganic 2D materials."
+  article_number: ''
+- title: Nitrogenated holey two-dimensional structures
+  authors: Javeed Mahmood, Eun Kwang Lee, Minbok Jung, Dongbin Shin, In-Yup Jeon,
+    Sun-Min Jung, Hyun-Jung Choi, Jeong-Min Seo, Seo-Yoon Bae, So-Dam Sohn, Noejung
+    Park, Joon Hak Oh, Hyung-Joon Shin, Jong-Beom Baek
+  journal: Nature Communications
+  year: 2015
+  volume: '6'
+  issue: '1'
+  doi: 10.1038/ncomms7486
+  url: https://doi.org/10.1038/ncomms7486
+  abstract: AbstractRecent graphene research has triggered enormous interest in new
+    two-dimensional ordered crystals constructed by the inclusion of elements other
+    than carbon for bandgap opening. The design of new multifunctional two-dimensional
+    materials with proper bandgap has become an important challenge. Here we report
+    a layered two-dimensional network structure that possesses evenly distributed
+    holes and nitrogen atoms and a C2N stoichiometry in its basal plane. The two-dimensional
+    structure can be efficiently synthesized via a simple wet-chemical reaction and
+    confirmed with various characterization techniques, including scanning tunnelling
+    microscopy. Furthermore, a field-effect transistor device fabricated using the
+    material exhibits an on/off ratio of 107, with calculated and experimental bandgaps
+    of approximately 1.70 and 1.96 eV, respectively. In view of the simplicity of
+    the production method and the advantages of the solution processability, the C2N-h2D
+    crystal has potential for use in practical applications.
+  article_number: '6486'
+- title: ZnO Nanowire Based Photoelectrical Resistive Switches for Flexible Memory
+  authors: Jinjoo Park, Hongseon Song, Eun Kwang Lee, Joon Hak Oh, Kijung Yong
+  journal: Journal of The Electrochemical Society
+  year: 2015
+  volume: '162'
+  issue: '9'
+  doi: 10.1149/2.1111509jes
+  url: https://doi.org/10.1149/2.1111509jes
+  abstract: ''
+  article_number: ''
+- title: Direct Solvothermal Synthesis of B/N‐Doped Graphene
+  authors: Sun‐Min Jung, Eun Kwang Lee, Min Choi, Dongbin Shin, In‐Yup Jeon, Jeong‐Min
+    Seo, Hu Young Jeong, Noejung Park, Joon Hak Oh, Jong‐Beom Baek
+  journal: Angewandte Chemie
+  year: 2014
+  volume: '126'
+  issue: '9'
+  doi: 10.1002/ange.201310260
+  url: https://doi.org/10.1002/ange.201310260
+  abstract: AbstractHeteroatom‐doping into graphitic networks has been utilized for
+    opening the band gap of graphene. However, boron‐doping into the graphitic framework
+    is extremely limited, whereas nitrogen‐doping is relatively feasible. Herein,
+    boron/nitrogen co‐doped graphene (BCN‐graphene) is directly synthesized from the
+    reaction of CCl4, BBr3, and N2 in the presence of potassium. The resultant BCN‐graphene
+    has boron and nitrogen contents of 2.38 and 2.66 atom %, respectively, and displays
+    good dispersion stability in N‐methyl‐2‐pyrrolidone, allowing for solution casting
+    fabrication of a field‐effect transistor. The device displays an on/off ratio
+    of 10.7 with an optical band gap of 3.3 eV. Considering the scalability of the
+    production method and the benefits of solution processability, BCN‐graphene has
+    high potential for many practical applications.
+  article_number: ''
+- title: Direct Solvothermal Synthesis of B/N‐Doped Graphene
+  authors: Sun‐Min Jung, Eun Kwang Lee, Min Choi, Dongbin Shin, In‐Yup Jeon, Jeong‐Min
+    Seo, Hu Young Jeong, Noejung Park, Joon Hak Oh, Jong‐Beom Baek
+  journal: Angewandte Chemie International Edition
+  year: 2014
+  volume: '53'
+  issue: '9'
+  doi: 10.1002/anie.201310260
+  url: https://doi.org/10.1002/anie.201310260
+  abstract: AbstractHeteroatom‐doping into graphitic networks has been utilized for
+    opening the band gap of graphene. However, boron‐doping into the graphitic framework
+    is extremely limited, whereas nitrogen‐doping is relatively feasible. Herein,
+    boron/nitrogen co‐doped graphene (BCN‐graphene) is directly synthesized from the
+    reaction of CCl4, BBr3, and N2 in the presence of potassium. The resultant BCN‐graphene
+    has boron and nitrogen contents of 2.38 and 2.66 atom %, respectively, and displays
+    good dispersion stability in N‐methyl‐2‐pyrrolidone, allowing for solution casting
+    fabrication of a field‐effect transistor. The device displays an on/off ratio
+    of 10.7 with an optical band gap of 3.3 eV. Considering the scalability of the
+    production method and the benefits of solution processability, BCN‐graphene has
+    high potential for many practical applications.
+  article_number: ''
+- title: Graphene–Ruthenium Complex Hybrid Photodetectors with Ultrahigh Photoresponsivity
+  authors: Xien Liu, Eun Kwang Lee, Joon Hak Oh
+  journal: Small
+  year: 2014
+  volume: '10'
+  issue: '18'
+  doi: 10.1002/smll.201400403
+  url: https://doi.org/10.1002/smll.201400403
+  abstract: The maximum responsivity of a pure monolayer graphene‐based photodetector
+    is currently less than 10 mA W−1 because of small optical absorption and short
+    recombination lifetime. Here, a graphene hybrid photodetector functionalized with
+    a photoactive ruthenium complex that shows an ultrahigh responsivity of ≈1 × 105
+    A W−1 and a photoconductive gain of ≈3 × 106 under incident optical intensity
+    of the order of sub‐milliwatts is reported. This responsivity is two orders of
+    magnitude higher than the precedent best performance of graphene‐based photodetectors
+    under a similar incident light intensity. Upon functionalization with a 4‐nm‐thick
+    ruthenium complex, monolayer graphene‐based photodetectors exhibit pronounced
+    n‐type doping effect due to electron transfer via the metal−ligand charge transfer
+    (MLCT) from the ruthenium complex to graphene. The ultrahigh responsivity is attributed
+    to the long lifetime and high mobility of the photoexcited charge carriers. This
+    approach is highly promising for improving the responsivity of graphene‐based
+    photodetectors.
+  article_number: ''
+- title: Nitrogen-Doped Graphene Nanoplatelets from Simple Solution Edge-Functionalization
+    for n-Type Field-Effect Transistors
+  authors: Dong Wook Chang, Eun Kwang Lee, Eun Yeob Park, Hojeong Yu, Hyun-Jung Choi,
+    In-Yup Jeon, Gyung-Joo Sohn, Dongbin Shin, Noejung Park, Joon Hak Oh, Liming Dai,
+    Jong-Beom Baek
+  journal: Journal of the American Chemical Society
+  year: 2013
+  volume: '135'
+  issue: '24'
+  doi: 10.1021/ja402555n
+  url: https://doi.org/10.1021/ja402555n
+  abstract: ''
+  article_number: ''
+- title: Tuning polarity and improving charge transport in organic semiconductors
+  authors: Joon Hak Oh, A-Reum Han, Hojeong Yu, Eun Kwang Lee, Moon Jeong Jang
+  journal: SPIE Proceedings
+  year: 2013
+  volume: '8831'
+  issue: ''
+  doi: 10.1117/12.2023157
+  url: https://doi.org/10.1117/12.2023157
+  abstract: ''
+  article_number: ''
