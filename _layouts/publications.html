@@ -1,0 +1,17 @@
+<ul class="pub-list">
+  {% for pub in site.data.publications %}
+  <li style="margin-bottom: 20px;">
+    <strong>{{ pub.title }}</strong><br>
+    <span>{{ pub.authors }}</span><br>
+    <em>{{ pub.journal }}</em>, <b>{{ pub.year }}</b>; {{ pub.volume }}({{ pub.issue }}): {{ pub.article_number }}<br>
+    <a href="{{ pub.url }}" target="_blank">DOI: {{ pub.doi }}</a>
+    
+    {% if pub.abstract %}
+    <details>
+      <summary style="cursor: pointer; color: blue;">[Abstract]</summary>
+      <p style="font-size: 0.9em; color: #555;">{{ pub.abstract }}</p>
+    </details>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
