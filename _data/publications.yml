@@ -1,5 +1,20 @@
 - year: '2026'
   items:
+  - title: "Schottky Barrier Engineering in\n                    n\n             \
+      \       ‐Type Organic Source‐Gated Transistors Enabling High Conductance"
+    authors: Yonghee Kim, Jae Won Lee, Wonbeen Jeong, <b>Eun Kwang Lee</b>, Jiyoul
+      Lee
+    journal: Advanced Materials Technologies
+    year: 2026
+    doi: 10.1002/admt.202502637
+    url: https://doi.org/10.1002/admt.202502637
+    abstract: "ABSTRACT\n                  \n                    Organic source‐gated\
+      \ transistors (OSGTs) offer promising advantages for low‐power electronics,\
+      \ including high on/off current ratios and reduced saturation drain voltages.\
+      \ However, high Schottky barriers at source electrodes limit their performance,\
+      \ resulting in lower apparent charge carrier mobility, reduced on‐current, and\
+      \ elevated threshold voltages compared to conventional organic field‐effect\
+      \ transistors (OFETs). Here, a modified source electro..."
   - title: Zwitterionic Fluoropolymer‐Engineered Synaptic Clefts Enhance Ion Dynamics
       in Neuromorphic OECTs
     authors: Ji Seon Kim, Young Je Kwon, Jung‐Hye Song, Yoon Ah Im, Dong Jun Han,
