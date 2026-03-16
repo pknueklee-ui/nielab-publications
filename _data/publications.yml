@@ -1,5 +1,14 @@
 - year: '2026'
   items:
+  - title: Mechanistic elucidation of solution-processable n-type doping via rhodamine
+      B for photoresponsive neuromorphic organic semiconductors
+    authors: Yonghee Kim, Min Hyuk Kim, Seong Bin Woo, Minseo Kim, Jeong-Mo Choi,
+      <b>Eun Kwang Lee</b>
+    journal: Macromolecular Research
+    year: 2026
+    doi: 10.1007/s13233-025-00489-1
+    url: https://doi.org/10.1007/s13233-025-00489-1
+    abstract: '...'
   - title: "Schottky Barrier Engineering in\n                    n\n             \
       \       ‐Type Organic Source‐Gated Transistors Enabling High Conductance"
     authors: Yonghee Kim, Jae Won Lee, Wonbeen Jeong, <b>Eun Kwang Lee</b>, Jiyoul
