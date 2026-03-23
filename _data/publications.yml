@@ -1,5 +1,22 @@
 - year: '2026'
   items:
+  - title: Enhanced near-infrared photonic synaptic devices for unimodal associative
+      learning via PVDF-HFP trap effects and IEICO-4F sensitization
+    authors: Min Ju Jung, Yonghee Kim, Wen-Ya Lee, Kang-Jun Baeg, <b>Eun Kwang Lee</b>
+    journal: Materials Science in Semiconductor Processing
+    year: 2026
+    doi: 10.1016/j.mssp.2026.110610
+    url: https://doi.org/10.1016/j.mssp.2026.110610
+    abstract: '...'
+  - title: 'Simple fabrication of PEDOT: PSS-based microfiber organic electrochemical
+      transistors for neuromorphic memory applications'
+    authors: Seung Min Lee, Yonghee Kim, Gyu Won Woo, Jung Ha Kim, Yong Hyun Kim,
+      Yun-seok Jun, <b>Eun Kwang Lee</b>
+    journal: Macromolecular Research
+    year: 2026
+    doi: 10.1007/s13233-026-00504-z
+    url: https://doi.org/10.1007/s13233-026-00504-z
+    abstract: '...'
   - title: Mechanistic elucidation of solution-processable n-type doping via rhodamine
       B for photoresponsive neuromorphic organic semiconductors
     authors: Yonghee Kim, Min Hyuk Kim, Seong Bin Woo, Minseo Kim, Jeong-Mo Choi,
@@ -24,6 +41,14 @@
       \ resulting in lower apparent charge carrier mobility, reduced on‐current, and\
       \ elevated threshold voltages compared to conventional organic field‐effect\
       \ transistors (OFETs). Here, a modified source electro..."
+  - title: Adaptive VOC Detection with Alcohol Dehydrogenase-Integrated Gelatin Transistors
+    authors: Han Na Kim, Jeong Hye Song, Hyo-Ryoung Lim, Wangmyung Choi, Sang Hyun
+      Lee, Gun Ho Hong, Seyong Oh, Hocheon Yoo, <b>Eun Kwang Lee</b>
+    journal: Synthetic Metals
+    year: 2026
+    doi: 10.1016/j.synthmet.2026.118142
+    url: https://doi.org/10.1016/j.synthmet.2026.118142
+    abstract: '...'
   - title: Zwitterionic Fluoropolymer‐Engineered Synaptic Clefts Enhance Ion Dynamics
       in Neuromorphic OECTs
     authors: Ji Seon Kim, Young Je Kwon, Jung‐Hye Song, Yoon Ah Im, Dong Jun Han,
