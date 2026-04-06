@@ -146,6 +146,15 @@
       applied to OSCSs. In this study, the enhancement of conductivity and photosensitivity
       of n‐type OSCS microwires (MWs) based on a small molecular semiconductor and
       an n‐type organic cationic ...
+  - title: Tailored phase separation in P3HT:PS blends for enhanced synaptic performance
+      in organic electrochemical transistors
+    authors: Seung Hwan Chung, Jeong Hye Song, Won Woo Lee, Hocheon Yoo, Hyo-Ryoung
+      Lim, <b>Eun Kwang Lee</b>
+    journal: Synthetic Metals
+    year: 2025
+    doi: 10.1016/j.synthmet.2025.117919
+    url: https://doi.org/10.1016/j.synthmet.2025.117919
+    abstract: '...'
   - title: Preparation of polyurethane sulfonate films as a motion sensing substrate
       with the compliant coating of PEDOT:PSS
     authors: Sung Moon Park, Seung Min Lee, Young Je Kwon, Kie Yong Cho, Soaram Kim,
@@ -313,6 +322,14 @@
     abstract: '...'
 - year: '2023'
   items:
+  - title: Hardware-based security devices using a physical unclonable function created
+      by the irregular grain boundaries found in perovskite calcium titanate
+    authors: Subin Lee, <b>Eun Kwang Lee</b>, Byung Chul Jang, Hocheon Yoo
+    journal: Journal of Alloys and Compounds
+    year: 2023
+    doi: 10.1016/j.jallcom.2023.172329
+    url: https://doi.org/10.1016/j.jallcom.2023.172329
+    abstract: '...'
   - title: 'Interconnection Technologies for Flexible Electronics: Materials, Fabrications,
       and Applications'
     authors: Ratul Kumar Baruah, Hocheon Yoo, <b>Eun Kwang Lee</b>
@@ -342,6 +359,21 @@
       specialized semiconductor devices which are huge and not portable. In this regard,
       semiconductor materials that are lightweight and have low power consumption
       and high performance should be dev...
+  - title: Blended Polymer Dry Electrodes for Reliable Electrocardiogram and Electromyogram
+      Measurements and Their Eco-Friendly Disposal Led by Degradability in Hot Water
+    authors: Dong Hyun Lee, <b>Eun Kwang Lee</b>, Chae Hyun Kim, Hyung Joong Yun,
+      Young-Joon Kim, Hocheon Yoo
+    journal: Polymers
+    year: 2022
+    doi: 10.3390/polym14132586
+    url: https://doi.org/10.3390/polym14132586
+    abstract: To increase the human lifespan, healthcare monitoring devices that diagnose
+      diseases and check body conditions have attracted considerable interest. Commercial
+      AgCl-based wet electrodes with the advantages of high conductivity and strong
+      adaptability to human skin are considered the most frequently used electrode
+      material for healthcare monitoring. However, commercial AgCl-based wet electrodes,
+      when exposed for a long period, cause an evaporation of organic solvents, which
+      could reduce the signa...
 - year: '2021'
   items:
   - title: Transparent and Flexible Vibration Sensor Based on a Wheel-Shaped Hybrid
@@ -358,6 +390,57 @@
       response, linearity of sensitivity, and esthetics. In this study, a transparent
       and flexible vibration sensor was developed by incorporating organic/inorganic
       hybrid materials into ultra...
+  - title: 'Self-Powered Sensors: New Opportunities and Challenges from Two-Dimensional
+      Nanomaterials'
+    authors: Eunkwang Lee, Hocheon Yoo
+    journal: Molecules
+    year: 2021
+    doi: 10.3390/molecules26165056
+    url: https://doi.org/10.3390/molecules26165056
+    abstract: Nanomaterials have gained considerable attention over the last decade,
+      finding applications in emerging fields such as wearable sensors, biomedical
+      care, and implantable electronics. However, these applications require miniaturization
+      operating with extremely low power levels to conveniently sense various signals
+      anytime, anywhere, and show the information in various ways. From this perspective,
+      a crucial field is technologies that can harvest energy from the environment
+      as sustainable, self-suf...
+  - title: 'Advanced Materials and Assembly Strategies for Wearable Biosensors: A
+      Review'
+    authors: <b>Eun Kwang Lee</b>, Hocheon Yoo, Chi Hwan Lee
+    journal: Biosensors - Current and Novel Strategies for Biosensing
+    year: 2021
+    doi: 10.5772/intechopen.94451
+    url: https://doi.org/10.5772/intechopen.94451
+    abstract: Recent technological advances of soft functional materials and their
+      assembly into wearable (i.e., on-skin) biosensors lead to the development of
+      ground-breaking biomedical applications ranging from wearable health monitoring
+      to drug delivery and to human-robot interactions. These wearable biosensors
+      are capable of unobtrusively interfacing with the human skin and enabling long-term
+      reliable monitoring of clinically useful biosignals associated with health and
+      other conditions affecting well-bei...
+  - title: 'Fused Aromatic Network Structures: Fused Aromatic Network with Exceptionally
+      High Carrier Mobility (Adv. Mater. 9/2021)'
+    authors: Javeed Mahmood, <b>Eun Kwang Lee</b>, Hyuk‐Jun Noh, Ishfaq Ahmad, Jeong‐Min
+      Seo, Yoon‐Kwang Im, Jong‐Pil Jeon, Seok‐Jin Kim, Joon Hak Oh, Jong‐Beom Baek
+    journal: Advanced Materials
+    year: 2021
+    doi: 10.1002/adma.202170063
+    url: https://doi.org/10.1002/adma.202170063
+    abstract: '...'
+  - title: Fused Aromatic Network with Exceptionally High Carrier Mobility
+    authors: Javeed Mahmood, <b>Eun Kwang Lee</b>, Hyuk‐Jun Noh, Ishfaq Ahmad, Jeong‐Min
+      Seo, Yoon‐Kwang Im, Jong‐Pil Jeon, Seok‐Jin Kim, Joon Hak Oh, Jong‐Beom Baek
+    journal: Advanced Materials
+    year: 2021
+    doi: 10.1002/adma.202004707
+    url: https://doi.org/10.1002/adma.202004707
+    abstract: AbstractRecently, studies of 2D organic layered materials with unique
+      electronic properties have generated considerable interest in the research community.
+      However, the development of organic materials with functional electrical transport
+      properties is still needed. Here, a 2D fused aromatic network (FAN) structure
+      with a C5N basal plane stoichiometry is designed and synthesized, and thin films
+      are cast from C5N solution onto silicon dioxide substrates. Then field‐effect
+      transistors are fabricat...
 - year: '2020'
   items:
   - title: Fractal Web Design of a Hemispherical Photodetector Array with Organic‐Dye‐Sensitized
@@ -378,6 +461,14 @@
       is challenged by the use of standard ...
 - year: '2019'
   items:
+  - title: 'Organic Electronics: Flexible Low‐Power Operative Organic Source‐Gated
+      Transistors (Adv. Funct. Mater. 27/2019)'
+    authors: Yonghee Kim, <b>Eun Kwang Lee</b>, Joon Hak Oh
+    journal: Advanced Functional Materials
+    year: 2019
+    doi: 10.1002/adfm.201970189
+    url: https://doi.org/10.1002/adfm.201970189
+    abstract: '...'
   - title: 'Skin-Mountable Biosensors and Therapeutics: A Review'
     authors: <b>Eun Kwang Lee</b>, Min Ku Kim, Chi Hwan Lee
     journal: Annual Review of Biomedical Engineering
@@ -391,6 +482,19 @@
       even under large deformations by natural motions of the wearer, provide a route
       for both high-fidelity monitoring and patient-controlled therapy. This article
       provides an overview of sev...
+  - title: Flexible Low‐Power Operative Organic Source‐Gated Transistors
+    authors: Yonghee Kim, <b>Eun Kwang Lee</b>, Joon Hak Oh
+    journal: Advanced Functional Materials
+    year: 2019
+    doi: 10.1002/adfm.201900650
+    url: https://doi.org/10.1002/adfm.201900650
+    abstract: AbstractLow‐voltage operation and fast switching ability are necessary
+      for wearable electronic devices. Recently, electrolyte dielectric materials
+      have been widely used to decrease driving voltages; however, they often exhibit
+      unwanted doping effects and power dissipation problems. Here, a method for dramatically
+      lowering driving voltages is reported in organic electronics via source‐gated
+      transistor (SGT) structures. SGTs are fabricated by evaporating asymmetric metals
+      with different work funct...
 - year: '2018'
   items:
   - title: Reduced Pyronin B as a solution-processable and heating-free n-type dopant
@@ -404,6 +508,20 @@
       an organic cationic dye is demonstrated for graphene and organic electronics....
 - year: '2017'
   items:
+  - title: 'Toward Environmentally Robust Organic Electronics: Approaches and Applications'
+    authors: <b>Eun Kwang Lee</b>, Moo Yeol Lee, Cheol Hee Park, Hae Rang Lee, Joon
+      Hak Oh
+    journal: Advanced Materials
+    year: 2017
+    doi: 10.1002/adma.201703638
+    url: https://doi.org/10.1002/adma.201703638
+    abstract: AbstractRecent interest in flexible electronics has led to a paradigm
+      shift in consumer electronics, and the emergent development of stretchable and
+      wearable electronics is opening a new spectrum of ubiquitous applications for
+      electronics. Organic electronic materials, such as π‐conjugated small molecules
+      and polymers, are highly suitable for use in low‐cost wearable electronic devices,
+      and their charge‐carrier mobilities have now exceeded that of amorphous silicon.
+      However, their commercializat...
   - title: Chemically Robust Ambipolar Organic Transistor Array Directly Patterned
       by Photolithography
     authors: <b>Eun Kwang Lee</b>, Cheol Hee Park, Junghoon Lee, Hae Rang Lee, Changduk
@@ -415,6 +533,21 @@
     abstract: '...'
 - year: '2016'
   items:
+  - title: Highly Flexible Organic Nanofiber Phototransistors Fabricated on a Textile
+      Composite for Wearable Photosensors
+    authors: Moo Yeol Lee, Jayeon Hong, <b>Eun Kwang Lee</b>, Hojeong Yu, Hyoeun Kim,
+      Jea Uk Lee, Wonoh Lee, Joon Hak Oh
+    journal: Advanced Functional Materials
+    year: 2016
+    doi: 10.1002/adfm.201503230
+    url: https://doi.org/10.1002/adfm.201503230
+    abstract: Highly flexible organic nanofiber phototransistors are fabricated on
+      a highly flexible poly(ethylene terephthalate) (PET) textile/poly(dimethylsiloxane)
+      (PDMS) composite substrate. Organic nanofibers are obtained by electrospinning,
+      using a mixture of poly(3,3″′‐didodecylquarterthiophene) (PQT‐12) and poly(ethylene
+      oxide) (PEO) as the semiconducting polymer and processing aid, respectively.
+      PDMS is used as both a buffer layer for flattening the PET textile and a dielectric
+      layer in the bottom‐ga...
   - title: Effects of microwave-assisted annealing on the morphology and electrical
       performance of semiconducting polymer thin films
     authors: Xiaobo Shang, Hojeong Yu, Wanuk Choi, <b>Eun Kwang Lee</b>, Joon Hak
@@ -423,6 +556,15 @@
     year: 2016
     doi: 10.1016/j.orgel.2015.12.027
     url: https://doi.org/10.1016/j.orgel.2015.12.027
+    abstract: '...'
+  - title: Flexible Organic Phototransistor Array with Enhanced Responsivity via Metal–Ligand
+      Charge Transfer
+    authors: Xien Liu, <b>Eun Kwang Lee</b>, Dong Yeong Kim, Hojeong Yu, Joon Hak
+      Oh
+    journal: ACS Applied Materials &amp; Interfaces
+    year: 2016
+    doi: 10.1021/acsami.5b11523
+    url: https://doi.org/10.1021/acsami.5b11523
     abstract: '...'
   - title: "Two-dimensional polyaniline (C\n            3\n            N) from carbonized\
       \ organic single crystals in solid state"
@@ -440,6 +582,74 @@
       \ (undoped) has electrical conductivity of 0.72 S/cm, which is 10\n        \
       \    10\n            times higher than its linear analog (undoped, 6.28 × 10\n\
       \            −11\n            S/cm). When it is dope..."
+- year: '2015'
+  items:
+  - title: Nitrogenated holey two-dimensional structures
+    authors: Javeed Mahmood, <b>Eun Kwang Lee</b>, Minbok Jung, Dongbin Shin, In-Yup
+      Jeon, Sun-Min Jung, Hyun-Jung Choi, Jeong-Min Seo, Seo-Yoon Bae, So-Dam Sohn,
+      Noejung Park, Joon Hak Oh, Hyung-Joon Shin, Jong-Beom Baek
+    journal: Nature Communications
+    year: 2015
+    doi: 10.1038/ncomms7486
+    url: https://doi.org/10.1038/ncomms7486
+    abstract: AbstractRecent graphene research has triggered enormous interest in
+      new two-dimensional ordered crystals constructed by the inclusion of elements
+      other than carbon for bandgap opening. The design of new multifunctional two-dimensional
+      materials with proper bandgap has become an important challenge. Here we report
+      a layered two-dimensional network structure that possesses evenly distributed
+      holes and nitrogen atoms and a C2N stoichiometry in its basal plane. The two-dimensional
+      structure can be e...
+  - title: ZnO Nanowire Based Photoelectrical Resistive Switches for Flexible Memory
+    authors: Jinjoo Park, Hongseon Song, <b>Eun Kwang Lee</b>, Joon Hak Oh, Kijung
+      Yong
+    journal: Journal of The Electrochemical Society
+    year: 2015
+    doi: 10.1149/2.1111509jes
+    url: https://doi.org/10.1149/2.1111509jes
+    abstract: '...'
+- year: '2014'
+  items:
+  - title: Direct Solvothermal Synthesis of B/N‐Doped Graphene
+    authors: Sun‐Min Jung, <b>Eun Kwang Lee</b>, Min Choi, Dongbin Shin, In‐Yup Jeon,
+      Jeong‐Min Seo, Hu Young Jeong, Noejung Park, Joon Hak Oh, Jong‐Beom Baek
+    journal: Angewandte Chemie
+    year: 2014
+    doi: 10.1002/ange.201310260
+    url: https://doi.org/10.1002/ange.201310260
+    abstract: AbstractHeteroatom‐doping into graphitic networks has been utilized
+      for opening the band gap of graphene. However, boron‐doping into the graphitic
+      framework is extremely limited, whereas nitrogen‐doping is relatively feasible.
+      Herein, boron/nitrogen co‐doped graphene (BCN‐graphene) is directly synthesized
+      from the reaction of CCl4, BBr3, and N2 in the presence of potassium. The resultant
+      BCN‐graphene has boron and nitrogen contents of 2.38 and 2.66 atom %, respectively,
+      and displays good dispers...
+  - title: Direct Solvothermal Synthesis of B/N‐Doped Graphene
+    authors: Sun‐Min Jung, <b>Eun Kwang Lee</b>, Min Choi, Dongbin Shin, In‐Yup Jeon,
+      Jeong‐Min Seo, Hu Young Jeong, Noejung Park, Joon Hak Oh, Jong‐Beom Baek
+    journal: Angewandte Chemie International Edition
+    year: 2014
+    doi: 10.1002/anie.201310260
+    url: https://doi.org/10.1002/anie.201310260
+    abstract: AbstractHeteroatom‐doping into graphitic networks has been utilized
+      for opening the band gap of graphene. However, boron‐doping into the graphitic
+      framework is extremely limited, whereas nitrogen‐doping is relatively feasible.
+      Herein, boron/nitrogen co‐doped graphene (BCN‐graphene) is directly synthesized
+      from the reaction of CCl4, BBr3, and N2 in the presence of potassium. The resultant
+      BCN‐graphene has boron and nitrogen contents of 2.38 and 2.66 atom %, respectively,
+      and displays good dispers...
+  - title: Graphene–Ruthenium Complex Hybrid Photodetectors with Ultrahigh Photoresponsivity
+    authors: Xien Liu, <b>Eun Kwang Lee</b>, Joon Hak Oh
+    journal: Small
+    year: 2014
+    doi: 10.1002/smll.201400403
+    url: https://doi.org/10.1002/smll.201400403
+    abstract: The maximum responsivity of a pure monolayer graphene‐based photodetector
+      is currently less than 10 mA W−1 because of small optical absorption and short
+      recombination lifetime. Here, a graphene hybrid photodetector functionalized
+      with a photoactive ruthenium complex that shows an ultrahigh responsivity of
+      ≈1 × 105 A W−1 and a photoconductive gain of ≈3 × 106 under incident optical
+      intensity of the order of sub‐milliwatts is reported. This responsivity is two
+      orders of magnitude higher than the p...
 - year: '2013'
   items:
   - title: Nitrogen-Doped Graphene Nanoplatelets from Simple Solution Edge-Functionalization
@@ -451,4 +661,12 @@
     year: 2013
     doi: 10.1021/ja402555n
     url: https://doi.org/10.1021/ja402555n
+    abstract: '...'
+  - title: Tuning polarity and improving charge transport in organic semiconductors
+    authors: Joon Hak Oh, A-Reum Han, Hojeong Yu, <b>Eun Kwang Lee</b>, Moon Jeong
+      Jang
+    journal: SPIE Proceedings
+    year: 2013
+    doi: 10.1117/12.2023157
+    url: https://doi.org/10.1117/12.2023157
     abstract: '...'
