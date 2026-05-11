@@ -25,6 +25,21 @@
     doi: 10.1021/acsami.6c00764
     url: https://doi.org/10.1021/acsami.6c00764
     abstract: '...'
+  - title: Confinement at Defect Sites Dissociates Ionic‐Liquid Pairs for Brain‐Like
+      Organic Computing
+    authors: Chang Min Lee, Hye Jeong Son, Yongsang An, Jin Uk Kim, Hocheon Yoo, Seongbin
+      Ga, Chang Soo Lee, <b>Eun Kwang Lee</b>
+    journal: Small
+    year: 2026
+    doi: 10.1002/smll.73608
+    url: https://doi.org/10.1002/smll.73608
+    abstract: "ABSTRACT\n                  \n                    Organic electrochemical\
+      \ transistors (OECTs) have attracted significant attention as devices for emulating\
+      \ brain‐like information processing. However, their practical implementation\
+      \ is hindered by the limited ion modulation diversity at the active layer–electrolyte\
+      \ interface. To overcome this limitation, we introduce a metal–organic framework\
+      \ (MOF) as a selective ion‐conducting layer to modulate ion‐pair dissociation.\
+      \ The MOF layer is based on benzo..."
   - title: Zwitterion-Modified PMMA Interlayers for Reliable Dual-Mode Organic Neuromorphic
       Devices
     authors: Seong Bin Woo, Yonghee Kim, Yu Kyeong Kim, Soo Hyun Lee, Do-Hoon Hwang,
@@ -478,19 +493,6 @@
     doi: 10.1002/adfm.201970189
     url: https://doi.org/10.1002/adfm.201970189
     abstract: '...'
-  - title: 'Skin-Mountable Biosensors and Therapeutics: A Review'
-    authors: <b>Eun Kwang Lee</b>, Min Ku Kim, Chi Hwan Lee
-    journal: Annual Review of Biomedical Engineering
-    year: 2019
-    doi: 10.1146/annurev-bioeng-060418-052315
-    url: https://doi.org/10.1146/annurev-bioeng-060418-052315
-    abstract: Miniaturization of electronic components and advances in flexible and
-      stretchable materials have stimulated the development of wearable health care
-      systems that can reflect and monitor personal health status by health care professionals.
-      New skin-mountable devices that offer seamless contact onto the human skin,
-      even under large deformations by natural motions of the wearer, provide a route
-      for both high-fidelity monitoring and patient-controlled therapy. This article
-      provides an overview of sev...
   - title: Flexible Low‐Power Operative Organic Source‐Gated Transistors
     authors: Yonghee Kim, <b>Eun Kwang Lee</b>, Joon Hak Oh
     journal: Advanced Functional Materials
@@ -575,39 +577,8 @@
     doi: 10.1021/acsami.5b11523
     url: https://doi.org/10.1021/acsami.5b11523
     abstract: '...'
-  - title: "Two-dimensional polyaniline (C\n            3\n            N) from carbonized\
-      \ organic single crystals in solid state"
-    authors: Javeed Mahmood, <b>Eun Kwang Lee</b>, Minbok Jung, Dongbin Shin, Hyun-Jung
-      Choi, Jeong-Min Seo, Sun-Min Jung, Dongwook Kim, Feng Li, Myoung Soo Lah, Noejung
-      Park, Hyung-Joon Shin, Joon Hak Oh, Jong-Beom Baek
-    journal: Proceedings of the National Academy of Sciences
-    year: 2016
-    doi: 10.1073/pnas.1605318113
-    url: https://doi.org/10.1073/pnas.1605318113
-    abstract: "Significance\n          \n            Two-dimensional (2D) polyaniline\
-      \ (PANI) has been realized for the first time, to our knowledge, by direct solid-state\
-      \ reaction of organic single crystals. The 2D PANI framework consists of six\
-      \ nitrogen atoms that periodically surround a phenyl ring. Pristine 2D PANI\
-      \ (undoped) has electrical conductivity of 0.72 S/cm, which is 10\n        \
-      \    10\n            times higher than its linear analog (undoped, 6.28 × 10\n\
-      \            −11\n            S/cm). When it is dope..."
 - year: '2015'
   items:
-  - title: Nitrogenated holey two-dimensional structures
-    authors: Javeed Mahmood, <b>Eun Kwang Lee</b>, Minbok Jung, Dongbin Shin, In-Yup
-      Jeon, Sun-Min Jung, Hyun-Jung Choi, Jeong-Min Seo, Seo-Yoon Bae, So-Dam Sohn,
-      Noejung Park, Joon Hak Oh, Hyung-Joon Shin, Jong-Beom Baek
-    journal: Nature Communications
-    year: 2015
-    doi: 10.1038/ncomms7486
-    url: https://doi.org/10.1038/ncomms7486
-    abstract: AbstractRecent graphene research has triggered enormous interest in
-      new two-dimensional ordered crystals constructed by the inclusion of elements
-      other than carbon for bandgap opening. The design of new multifunctional two-dimensional
-      materials with proper bandgap has become an important challenge. Here we report
-      a layered two-dimensional network structure that possesses evenly distributed
-      holes and nitrogen atoms and a C2N stoichiometry in its basal plane. The two-dimensional
-      structure can be e...
   - title: ZnO Nanowire Based Photoelectrical Resistive Switches for Flexible Memory
     authors: Jinjoo Park, Hongseon Song, <b>Eun Kwang Lee</b>, Joon Hak Oh, Kijung
       Yong
@@ -618,20 +589,6 @@
     abstract: '...'
 - year: '2014'
   items:
-  - title: Direct Solvothermal Synthesis of B/N‐Doped Graphene
-    authors: Sun‐Min Jung, <b>Eun Kwang Lee</b>, Min Choi, Dongbin Shin, In‐Yup Jeon,
-      Jeong‐Min Seo, Hu Young Jeong, Noejung Park, Joon Hak Oh, Jong‐Beom Baek
-    journal: Angewandte Chemie
-    year: 2014
-    doi: 10.1002/ange.201310260
-    url: https://doi.org/10.1002/ange.201310260
-    abstract: AbstractHeteroatom‐doping into graphitic networks has been utilized
-      for opening the band gap of graphene. However, boron‐doping into the graphitic
-      framework is extremely limited, whereas nitrogen‐doping is relatively feasible.
-      Herein, boron/nitrogen co‐doped graphene (BCN‐graphene) is directly synthesized
-      from the reaction of CCl4, BBr3, and N2 in the presence of potassium. The resultant
-      BCN‐graphene has boron and nitrogen contents of 2.38 and 2.66 atom %, respectively,
-      and displays good dispers...
   - title: Direct Solvothermal Synthesis of B/N‐Doped Graphene
     authors: Sun‐Min Jung, <b>Eun Kwang Lee</b>, Min Choi, Dongbin Shin, In‐Yup Jeon,
       Jeong‐Min Seo, Hu Young Jeong, Noejung Park, Joon Hak Oh, Jong‐Beom Baek
@@ -646,36 +603,3 @@
       from the reaction of CCl4, BBr3, and N2 in the presence of potassium. The resultant
       BCN‐graphene has boron and nitrogen contents of 2.38 and 2.66 atom %, respectively,
       and displays good dispers...
-  - title: Graphene–Ruthenium Complex Hybrid Photodetectors with Ultrahigh Photoresponsivity
-    authors: Xien Liu, <b>Eun Kwang Lee</b>, Joon Hak Oh
-    journal: Small
-    year: 2014
-    doi: 10.1002/smll.201400403
-    url: https://doi.org/10.1002/smll.201400403
-    abstract: The maximum responsivity of a pure monolayer graphene‐based photodetector
-      is currently less than 10 mA W−1 because of small optical absorption and short
-      recombination lifetime. Here, a graphene hybrid photodetector functionalized
-      with a photoactive ruthenium complex that shows an ultrahigh responsivity of
-      ≈1 × 105 A W−1 and a photoconductive gain of ≈3 × 106 under incident optical
-      intensity of the order of sub‐milliwatts is reported. This responsivity is two
-      orders of magnitude higher than the p...
-- year: '2013'
-  items:
-  - title: Nitrogen-Doped Graphene Nanoplatelets from Simple Solution Edge-Functionalization
-      for n-Type Field-Effect Transistors
-    authors: Dong Wook Chang, <b>Eun Kwang Lee</b>, Eun Yeob Park, Hojeong Yu, Hyun-Jung
-      Choi, In-Yup Jeon, Gyung-Joo Sohn, Dongbin Shin, Noejung Park, Joon Hak Oh,
-      Liming Dai, Jong-Beom Baek
-    journal: Journal of the American Chemical Society
-    year: 2013
-    doi: 10.1021/ja402555n
-    url: https://doi.org/10.1021/ja402555n
-    abstract: '...'
-  - title: Tuning polarity and improving charge transport in organic semiconductors
-    authors: Joon Hak Oh, A-Reum Han, Hojeong Yu, <b>Eun Kwang Lee</b>, Moon Jeong
-      Jang
-    journal: SPIE Proceedings
-    year: 2013
-    doi: 10.1117/12.2023157
-    url: https://doi.org/10.1117/12.2023157
-    abstract: '...'
