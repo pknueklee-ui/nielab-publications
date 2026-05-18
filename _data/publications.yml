@@ -493,6 +493,19 @@
     doi: 10.1002/adfm.201970189
     url: https://doi.org/10.1002/adfm.201970189
     abstract: '...'
+  - title: 'Skin-Mountable Biosensors and Therapeutics: A Review'
+    authors: <b>Eun Kwang Lee</b>, Min Ku Kim, Chi Hwan Lee
+    journal: Annual Review of Biomedical Engineering
+    year: 2019
+    doi: 10.1146/annurev-bioeng-060418-052315
+    url: https://doi.org/10.1146/annurev-bioeng-060418-052315
+    abstract: Miniaturization of electronic components and advances in flexible and
+      stretchable materials have stimulated the development of wearable health care
+      systems that can reflect and monitor personal health status by health care professionals.
+      New skin-mountable devices that offer seamless contact onto the human skin,
+      even under large deformations by natural motions of the wearer, provide a route
+      for both high-fidelity monitoring and patient-controlled therapy. This article
+      provides an overview of sev...
   - title: Flexible Low‐Power Operative Organic Source‐Gated Transistors
     authors: Yonghee Kim, <b>Eun Kwang Lee</b>, Joon Hak Oh
     journal: Advanced Functional Materials
@@ -559,15 +572,6 @@
       oxide) (PEO) as the semiconducting polymer and processing aid, respectively.
       PDMS is used as both a buffer layer for flattening the PET textile and a dielectric
       layer in the bottom‐ga...
-  - title: Effects of microwave-assisted annealing on the morphology and electrical
-      performance of semiconducting polymer thin films
-    authors: Xiaobo Shang, Hojeong Yu, Wanuk Choi, <b>Eun Kwang Lee</b>, Joon Hak
-      Oh
-    journal: Organic Electronics
-    year: 2016
-    doi: 10.1016/j.orgel.2015.12.027
-    url: https://doi.org/10.1016/j.orgel.2015.12.027
-    abstract: '...'
   - title: Flexible Organic Phototransistor Array with Enhanced Responsivity via Metal–Ligand
       Charge Transfer
     authors: Xien Liu, <b>Eun Kwang Lee</b>, Dong Yeong Kim, Hojeong Yu, Joon Hak
@@ -592,6 +596,20 @@
   - title: Direct Solvothermal Synthesis of B/N‐Doped Graphene
     authors: Sun‐Min Jung, <b>Eun Kwang Lee</b>, Min Choi, Dongbin Shin, In‐Yup Jeon,
       Jeong‐Min Seo, Hu Young Jeong, Noejung Park, Joon Hak Oh, Jong‐Beom Baek
+    journal: Angewandte Chemie
+    year: 2014
+    doi: 10.1002/ange.201310260
+    url: https://doi.org/10.1002/ange.201310260
+    abstract: AbstractHeteroatom‐doping into graphitic networks has been utilized
+      for opening the band gap of graphene. However, boron‐doping into the graphitic
+      framework is extremely limited, whereas nitrogen‐doping is relatively feasible.
+      Herein, boron/nitrogen co‐doped graphene (BCN‐graphene) is directly synthesized
+      from the reaction of CCl4, BBr3, and N2 in the presence of potassium. The resultant
+      BCN‐graphene has boron and nitrogen contents of 2.38 and 2.66 atom %, respectively,
+      and displays good dispers...
+  - title: Direct Solvothermal Synthesis of B/N‐Doped Graphene
+    authors: Sun‐Min Jung, <b>Eun Kwang Lee</b>, Min Choi, Dongbin Shin, In‐Yup Jeon,
+      Jeong‐Min Seo, Hu Young Jeong, Noejung Park, Joon Hak Oh, Jong‐Beom Baek
     journal: Angewandte Chemie International Edition
     year: 2014
     doi: 10.1002/anie.201310260
@@ -603,3 +621,36 @@
       from the reaction of CCl4, BBr3, and N2 in the presence of potassium. The resultant
       BCN‐graphene has boron and nitrogen contents of 2.38 and 2.66 atom %, respectively,
       and displays good dispers...
+  - title: Graphene–Ruthenium Complex Hybrid Photodetectors with Ultrahigh Photoresponsivity
+    authors: Xien Liu, <b>Eun Kwang Lee</b>, Joon Hak Oh
+    journal: Small
+    year: 2014
+    doi: 10.1002/smll.201400403
+    url: https://doi.org/10.1002/smll.201400403
+    abstract: The maximum responsivity of a pure monolayer graphene‐based photodetector
+      is currently less than 10 mA W−1 because of small optical absorption and short
+      recombination lifetime. Here, a graphene hybrid photodetector functionalized
+      with a photoactive ruthenium complex that shows an ultrahigh responsivity of
+      ≈1 × 105 A W−1 and a photoconductive gain of ≈3 × 106 under incident optical
+      intensity of the order of sub‐milliwatts is reported. This responsivity is two
+      orders of magnitude higher than the p...
+- year: '2013'
+  items:
+  - title: Nitrogen-Doped Graphene Nanoplatelets from Simple Solution Edge-Functionalization
+      for n-Type Field-Effect Transistors
+    authors: Dong Wook Chang, <b>Eun Kwang Lee</b>, Eun Yeob Park, Hojeong Yu, Hyun-Jung
+      Choi, In-Yup Jeon, Gyung-Joo Sohn, Dongbin Shin, Noejung Park, Joon Hak Oh,
+      Liming Dai, Jong-Beom Baek
+    journal: Journal of the American Chemical Society
+    year: 2013
+    doi: 10.1021/ja402555n
+    url: https://doi.org/10.1021/ja402555n
+    abstract: '...'
+  - title: Tuning polarity and improving charge transport in organic semiconductors
+    authors: Joon Hak Oh, A-Reum Han, Hojeong Yu, <b>Eun Kwang Lee</b>, Moon Jeong
+      Jang
+    journal: SPIE Proceedings
+    year: 2013
+    doi: 10.1117/12.2023157
+    url: https://doi.org/10.1117/12.2023157
+    abstract: '...'
