@@ -31,6 +31,21 @@
     doi: 10.1016/j.synthmet.2026.118142
     url: https://doi.org/10.1016/j.synthmet.2026.118142
     abstract: '...'
+  - title: Confinement at Defect Sites Dissociates Ionic‐Liquid Pairs for Brain‐Like
+      Organic Computing
+    authors: Chang Min Lee, Hye Jeong Son, Yongsang An, Jin Uk Kim, Hocheon Yoo, Seongbin
+      Ga, Chang Soo Lee, <b>Eun Kwang Lee</b>
+    journal: Small
+    year: 2026
+    doi: 10.1002/smll.73608
+    url: https://doi.org/10.1002/smll.73608
+    abstract: "ABSTRACT\n                  \n                    Organic electrochemical\
+      \ transistors (OECTs) have attracted significant attention as devices for emulating\
+      \ brain‐like information processing. However, their practical implementation\
+      \ is hindered by the limited ion modulation diversity at the active layer–electrolyte\
+      \ interface. To overcome this limitation, we introduce a metal–organic framework\
+      \ (MOF) as a selective ion‐conducting layer to modulate ion‐pair dissociation.\
+      \ The MOF layer is based on benzo..."
   - title: "Schottky Barrier Engineering in\n                    n\n             \
       \       ‐Type Organic Source‐Gated Transistors Enabling High Conductance"
     authors: Yonghee Kim, Jae Won Lee, Wonbeen Jeong, <b>Eun Kwang Lee</b>, Jiyoul
@@ -55,21 +70,6 @@
     doi: 10.1021/acsami.6c00764
     url: https://doi.org/10.1021/acsami.6c00764
     abstract: '...'
-  - title: Confinement at Defect Sites Dissociates Ionic‐Liquid Pairs for Brain‐Like
-      Organic Computing
-    authors: Chang Min Lee, Hye Jeong Son, Yongsang An, Jin Uk Kim, Hocheon Yoo, Seongbin
-      Ga, Chang Soo Lee, <b>Eun Kwang Lee</b>
-    journal: Small
-    year: 2026
-    doi: 10.1002/smll.73608
-    url: https://doi.org/10.1002/smll.73608
-    abstract: "ABSTRACT\n                  \n                    Organic electrochemical\
-      \ transistors (OECTs) have attracted significant attention as devices for emulating\
-      \ brain‐like information processing. However, their practical implementation\
-      \ is hindered by the limited ion modulation diversity at the active layer–electrolyte\
-      \ interface. To overcome this limitation, we introduce a metal–organic framework\
-      \ (MOF) as a selective ion‐conducting layer to modulate ion‐pair dissociation.\
-      \ The MOF layer is based on benzo..."
   - title: 'Simple fabrication of PEDOT: PSS-based microfiber organic electrochemical
       transistors for neuromorphic memory applications'
     authors: Seung Min Lee, Yonghee Kim, Gyu Won Woo, Jung Ha Kim, Yong Hyun Kim,
@@ -97,21 +97,6 @@
     doi: 10.1007/s13233-025-00489-1
     url: https://doi.org/10.1007/s13233-025-00489-1
     abstract: '...'
-  - title: Zwitterionic Fluoropolymer‐Engineered Synaptic Clefts Enhance Ion Dynamics
-      in Neuromorphic OECTs
-    authors: Ji Seon Kim, Young Je Kwon, Jung‐Hye Song, Yoon Ah Im, Dong Jun Han,
-      Ho Jin Jung, Kie Yong Cho, <b>Eun Kwang Lee</b>
-    journal: Advanced Materials Technologies
-    year: 2026
-    doi: 10.1002/admt.202501662
-    url: https://doi.org/10.1002/admt.202501662
-    abstract: "Abstract\n                  \n                    Organic electrochemical\
-      \ transistors (OECTs) offer a compelling platform for hardware synapses, yet\
-      \ ion transport through the common semi‐crystalline PVDF‐HFP electrolyte suppresses\
-      \ switching speed and energy efficiency. Here, DPVDF‐SZ, a soft zwitterionic\
-      \ fluoropolymer ion gel engineered by grafting sulfobetaine side chains onto\
-      \ a flexible PVDF‐CTFE backbone, is introduced. Crystallinity drops to ≈3%,\
-      \ and fracture strain rises to 84%. Paired with P..."
   - title: Highly aligned polymer nanowire-based fin architecture for enhanced functionality
       of organic electrochemical transistors in neuromorphic computing
     authors: Yonghee Kim, Wonbeen Jeong, <b>Eun Kwang Lee</b>, Jiyoul Lee
@@ -138,14 +123,6 @@
       serve as key components, utilizing ion–electron coupling and nonvolatile synaptic
       weight modulation for energy‐efficient neuromorphic functions. Reflecting the
       potential of the aforement...
-  - title: 'Advances in Organic In‐Sensor Neuromorphic Computing: from Material Mechanisms
-      to Applications'
-    authors: Dong Hyun Lee, Woojo Kim, <b>Eun Kwang Lee</b>, Hocheon Yoo
-    journal: Advanced Intelligent Discovery
-    year: 2025
-    doi: 10.1002/aidi.70059
-    url: https://doi.org/10.1002/aidi.70059
-    abstract: '...'
   - title: Enhanced Photocurrent of Electrodeposited Copper Oxide Films Doped with
       Solution-Processable Organic Cationic Dye as a Dopant
     authors: Hye Won Lee, Jiyoul Lee, <b>Eun Kwang Lee</b>
@@ -302,6 +279,15 @@
       consumption and rapid response times. A notable challenge arises when the gate
       voltage is removed, causing doped ions to return quickly to the electrolyte.
       A simple yet efficient approach...
+  - title: Controlling Long-Term Plasticity in Neuromorphic Computing Through Modulation
+      of Ferroelectric Polarization
+    authors: Donghwa Lee, Junho Sung, Minhui Kim, Na-Hyeon Kim, Seonggyu Lee, Hee-Young
+      Lee, <b>Eun Kwang Lee</b>, Dongyeong Jeong, Eunho Lee
+    journal: ACS Applied Materials &amp; Interfaces
+    year: 2024
+    doi: 10.1021/acsami.4c11731
+    url: https://doi.org/10.1021/acsami.4c11731
+    abstract: '...'
   - title: Enhancing Stability of n-Type Doped Organic Semiconductors through Low
       Boiling Point Solvent-Assisted Room Temperature Drying
     authors: Da Eun Lee, Joon Hak Oh, <b>Eun Kwang Lee</b>
@@ -309,6 +295,28 @@
     year: 2024
     doi: 10.1021/acsami.4c08461
     url: https://doi.org/10.1021/acsami.4c08461
+    abstract: '...'
+  - title: PEDOT:PSS‐Based Prolonged Long‐Term Decay Synaptic OECT with Proton‐Permeable
+      Material, Nafion
+    authors: Ye Ji Lee, Yong Hyun Kim, <b>Eun Kwang Lee</b>
+    journal: Macromolecular Rapid Communications
+    year: 2024
+    doi: 10.1002/marc.202400165
+    url: https://doi.org/10.1002/marc.202400165
+    abstract: AbstractPoly(3,4‐ethylenedioxythiophene):polystyrene sulfonate (PEDOT:PSS),
+      a conductive polymer, has gained popularity as the channel layer in organic
+      electrochemical transistors (OECTs) due to its high conductivity and straightforward
+      processing. However, difficulties arise in controlling its conductivity through
+      gate voltage, presenting a challenge. To address this issue, aromatic amidine
+      base, diazabicyclo[4.3.0]non‐5‐ene (DBN), is used to stabilize the doping state
+      of the PEDOT chain throug...
+  - title: n-Type Doping Effect of Anthracene-Based Cationic Dyes in Organic Electronics
+    authors: Yonghee Kim, Minju Jung, Rajeev Kumar, Jeong-Mo Choi, <b>Eun Kwang Lee</b>,
+      Jiyoul Lee
+    journal: ACS Applied Materials &amp; Interfaces
+    year: 2024
+    doi: 10.1021/acsami.4c05952
+    url: https://doi.org/10.1021/acsami.4c05952
     abstract: '...'
   - title: Enhanced synaptic behavior of neuromorphic device based on organic electrochemical
       transistors by adding Aminosilane
@@ -621,26 +629,29 @@
       from the reaction of CCl4, BBr3, and N2 in the presence of potassium. The resultant
       BCN‐graphene has boron and nitrogen contents of 2.38 and 2.66 atom %, respectively,
       and displays good dispers...
-  - title: Graphene–Ruthenium Complex Hybrid Photodetectors with Ultrahigh Photoresponsivity
-    authors: Xien Liu, <b>Eun Kwang Lee</b>, Joon Hak Oh
-    journal: Small
+  - title: Direct Solvothermal Synthesis of B/N‐Doped Graphene
+    authors: Sun‐Min Jung, <b>Eun Kwang Lee</b>, Min Choi, Dongbin Shin, In‐Yup Jeon,
+      Jeong‐Min Seo, Hu Young Jeong, Noejung Park, Joon Hak Oh, Jong‐Beom Baek
+    journal: Angewandte Chemie International Edition
     year: 2014
-    doi: 10.1002/smll.201400403
-    url: https://doi.org/10.1002/smll.201400403
-    abstract: The maximum responsivity of a pure monolayer graphene‐based photodetector
-      is currently less than 10 mA W−1 because of small optical absorption and short
-      recombination lifetime. Here, a graphene hybrid photodetector functionalized
-      with a photoactive ruthenium complex that shows an ultrahigh responsivity of
-      ≈1 × 105 A W−1 and a photoconductive gain of ≈3 × 106 under incident optical
-      intensity of the order of sub‐milliwatts is reported. This responsivity is two
-      orders of magnitude higher than the p...
+    doi: 10.1002/anie.201310260
+    url: https://doi.org/10.1002/anie.201310260
+    abstract: AbstractHeteroatom‐doping into graphitic networks has been utilized
+      for opening the band gap of graphene. However, boron‐doping into the graphitic
+      framework is extremely limited, whereas nitrogen‐doping is relatively feasible.
+      Herein, boron/nitrogen co‐doped graphene (BCN‐graphene) is directly synthesized
+      from the reaction of CCl4, BBr3, and N2 in the presence of potassium. The resultant
+      BCN‐graphene has boron and nitrogen contents of 2.38 and 2.66 atom %, respectively,
+      and displays good dispers...
 - year: '2013'
   items:
-  - title: Tuning polarity and improving charge transport in organic semiconductors
-    authors: Joon Hak Oh, A-Reum Han, Hojeong Yu, <b>Eun Kwang Lee</b>, Moon Jeong
-      Jang
-    journal: SPIE Proceedings
+  - title: Nitrogen-Doped Graphene Nanoplatelets from Simple Solution Edge-Functionalization
+      for n-Type Field-Effect Transistors
+    authors: Dong Wook Chang, <b>Eun Kwang Lee</b>, Eun Yeob Park, Hojeong Yu, Hyun-Jung
+      Choi, In-Yup Jeon, Gyung-Joo Sohn, Dongbin Shin, Noejung Park, Joon Hak Oh,
+      Liming Dai, Jong-Beom Baek
+    journal: Journal of the American Chemical Society
     year: 2013
-    doi: 10.1117/12.2023157
-    url: https://doi.org/10.1117/12.2023157
+    doi: 10.1021/ja402555n
+    url: https://doi.org/10.1021/ja402555n
     abstract: '...'
