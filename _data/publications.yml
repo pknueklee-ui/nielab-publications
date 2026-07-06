@@ -154,6 +154,21 @@
     doi: 10.1007/s11814-025-00533-x
     url: https://doi.org/10.1007/s11814-025-00533-x
     abstract: '...'
+  - title: 'Detachable and Reusable: Reinforced π‐Ion Film for Modular Synaptic Reservoir
+      Computing'
+    authors: Gyu Won Woo, Chang Min Lee, Won Woo Lee, Min Ju Jung, Seung Min Lee,
+      Hye Won Lee, Hocheon Yoo, Yong Hee Kim, <b>Eun Kwang Lee</b>
+    journal: Advanced Materials
+    year: 2025
+    doi: 10.1002/adma.202506729
+    url: https://doi.org/10.1002/adma.202506729
+    abstract: AbstractOrganic electrochemical transistors (OECTs) show significant
+      promise for bioelectronics and neuromorphic computing applications due to their
+      low operating voltage, biocompatibility, and ion‐mediated charge transport.
+      However, conventional OECTs with permanently fixed organic semiconductor (OSC)
+      layers lack modularity and reusability for sustainable electronics with e‐waste
+      reduction. Here, a novel reinforced π‐ion film OECT featuring a detachable and
+      reusable OSC layer that creates a uni...
   - title: Highly Efficient n‐Type Doped Single‐Crystalline Perylene Diimide Microwires
       via Solution Processing for High‐Performance Photosensors and Photo‐Neuromorphic
       Devices
@@ -354,6 +369,20 @@
     doi: 10.1016/j.jallcom.2023.172329
     url: https://doi.org/10.1016/j.jallcom.2023.172329
     abstract: '...'
+  - title: 'Interconnection Technologies for Flexible Electronics: Materials, Fabrications,
+      and Applications'
+    authors: Ratul Kumar Baruah, Hocheon Yoo, <b>Eun Kwang Lee</b>
+    journal: Micromachines
+    year: 2023
+    doi: 10.3390/mi14061131
+    url: https://doi.org/10.3390/mi14061131
+    abstract: Flexible electronic devices require metal interconnects to facilitate
+      the flow of electrical signals among the device components, ensuring its proper
+      functionality. There are multiple factors to consider when designing metal interconnects
+      for flexible electronics, including their conductivity, flexibility, reliability,
+      and cost. This article provides an overview of recent endeavors to create flexible
+      electronic devices through different metal interconnect approaches, with a focus
+      on materials an...
 - year: '2022'
   items:
   - title: New Opportunities for Organic Semiconducting Polymers in Biomedical Applications
@@ -386,6 +415,20 @@
       could reduce the signa...
 - year: '2021'
   items:
+  - title: Transparent and Flexible Vibration Sensor Based on a Wheel-Shaped Hybrid
+      Thin Membrane
+    authors: Siyoung Lee, Eun Lee, Eunho Lee, Geun Bae
+    journal: Micromachines
+    year: 2021
+    doi: 10.3390/mi12101246
+    url: https://doi.org/10.3390/mi12101246
+    abstract: With the advent of human–machine interaction and the Internet of Things,
+      wearable and flexible vibration sensors have been developed to detect human
+      voices and surrounding vibrations transmitted to humans. However, previous wearable
+      vibration sensors have limitations in the sensing performance, such as frequency
+      response, linearity of sensitivity, and esthetics. In this study, a transparent
+      and flexible vibration sensor was developed by incorporating organic/inorganic
+      hybrid materials into ultra...
   - title: 'Self-Powered Sensors: New Opportunities and Challenges from Two-Dimensional
       Nanomaterials'
     authors: Eunkwang Lee, Hocheon Yoo
@@ -414,6 +457,15 @@
       are capable of unobtrusively interfacing with the human skin and enabling long-term
       reliable monitoring of clinically useful biosignals associated with health and
       other conditions affecting well-bei...
+  - title: 'Fused Aromatic Network Structures: Fused Aromatic Network with Exceptionally
+      High Carrier Mobility (Adv. Mater. 9/2021)'
+    authors: Javeed Mahmood, <b>Eun Kwang Lee</b>, Hyuk‐Jun Noh, Ishfaq Ahmad, Jeong‐Min
+      Seo, Yoon‐Kwang Im, Jong‐Pil Jeon, Seok‐Jin Kim, Joon Hak Oh, Jong‐Beom Baek
+    journal: Advanced Materials
+    year: 2021
+    doi: 10.1002/adma.202170063
+    url: https://doi.org/10.1002/adma.202170063
+    abstract: '...'
   - title: Fused Aromatic Network with Exceptionally High Carrier Mobility
     authors: Javeed Mahmood, <b>Eun Kwang Lee</b>, Hyuk‐Jun Noh, Ishfaq Ahmad, Jeong‐Min
       Seo, Yoon‐Kwang Im, Jong‐Pil Jeon, Seok‐Jin Kim, Joon Hak Oh, Jong‐Beom Baek
