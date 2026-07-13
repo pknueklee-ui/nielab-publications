@@ -1,5 +1,13 @@
 - year: '2026'
   items:
+  - title: Seamless human electronics interfacing through advanced skin attachable
+      and implantable sensor technologies
+    authors: Woojo Kim, Yonghee Kim, Hocheon Yoo, <b>Eun Kwang Lee</b>
+    journal: Discover Nano
+    year: 2026
+    doi: 10.1186/s11671-026-04790-5
+    url: https://doi.org/10.1186/s11671-026-04790-5
+    abstract: '...'
   - title: Enhanced near-infrared photonic synaptic devices for unimodal associative
       learning via PVDF-HFP trap effects and IEICO-4F sensitization
     authors: Min Ju Jung, Yonghee Kim, Wen-Ya Lee, Kang-Jun Baeg, <b>Eun Kwang Lee</b>
