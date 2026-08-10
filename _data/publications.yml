@@ -402,6 +402,19 @@
       on materials an...
 - year: '2022'
   items:
+  - title: New Opportunities for Organic Semiconducting Polymers in Biomedical Applications
+    authors: Kyunghun Kim, Hocheon Yoo, <b>Eun Kwang Lee</b>
+    journal: Polymers
+    year: 2022
+    doi: 10.3390/polym14142960
+    url: https://doi.org/10.3390/polym14142960
+    abstract: The life expectancy of humans has been significantly elevated due to
+      advancements in medical knowledge and skills over the past few decades. Although
+      a lot of knowledge and skills are disseminated to the general public, electronic
+      devices that quantitatively diagnose one’s own body condition still require
+      specialized semiconductor devices which are huge and not portable. In this regard,
+      semiconductor materials that are lightweight and have low power consumption
+      and high performance should be dev...
   - title: Blended Polymer Dry Electrodes for Reliable Electrocardiogram and Electromyogram
       Measurements and Their Eco-Friendly Disposal Led by Degradability in Hot Water
     authors: Dong Hyun Lee, <b>Eun Kwang Lee</b>, Chae Hyun Kim, Hyung Joong Yun,
@@ -433,6 +446,20 @@
       response, linearity of sensitivity, and esthetics. In this study, a transparent
       and flexible vibration sensor was developed by incorporating organic/inorganic
       hybrid materials into ultra...
+  - title: 'Self-Powered Sensors: New Opportunities and Challenges from Two-Dimensional
+      Nanomaterials'
+    authors: Eunkwang Lee, Hocheon Yoo
+    journal: Molecules
+    year: 2021
+    doi: 10.3390/molecules26165056
+    url: https://doi.org/10.3390/molecules26165056
+    abstract: Nanomaterials have gained considerable attention over the last decade,
+      finding applications in emerging fields such as wearable sensors, biomedical
+      care, and implantable electronics. However, these applications require miniaturization
+      operating with extremely low power levels to conveniently sense various signals
+      anytime, anywhere, and show the information in various ways. From this perspective,
+      a crucial field is technologies that can harvest energy from the environment
+      as sustainable, self-suf...
   - title: 'Advanced Materials and Assembly Strategies for Wearable Biosensors: A
       Review'
     authors: <b>Eun Kwang Lee</b>, Hocheon Yoo, Chi Hwan Lee
@@ -456,6 +483,38 @@
     doi: 10.1002/adma.202170063
     url: https://doi.org/10.1002/adma.202170063
     abstract: '...'
+  - title: Fused Aromatic Network with Exceptionally High Carrier Mobility
+    authors: Javeed Mahmood, <b>Eun Kwang Lee</b>, Hyuk‐Jun Noh, Ishfaq Ahmad, Jeong‐Min
+      Seo, Yoon‐Kwang Im, Jong‐Pil Jeon, Seok‐Jin Kim, Joon Hak Oh, Jong‐Beom Baek
+    journal: Advanced Materials
+    year: 2021
+    doi: 10.1002/adma.202004707
+    url: https://doi.org/10.1002/adma.202004707
+    abstract: AbstractRecently, studies of 2D organic layered materials with unique
+      electronic properties have generated considerable interest in the research community.
+      However, the development of organic materials with functional electrical transport
+      properties is still needed. Here, a 2D fused aromatic network (FAN) structure
+      with a C5N basal plane stoichiometry is designed and synthesized, and thin films
+      are cast from C5N solution onto silicon dioxide substrates. Then field‐effect
+      transistors are fabricat...
+- year: '2020'
+  items:
+  - title: Fractal Web Design of a Hemispherical Photodetector Array with Organic‐Dye‐Sensitized
+      Graphene Hybrid Composites
+    authors: <b>Eun Kwang Lee</b>, Ratul Kumar Baruah, Jung Woo Leem, Woohyun Park,
+      Bong Hoon Kim, Augustine Urbas, Zahyun Ku, Young L. Kim, Muhammad Ashraful Alam,
+      Chi Hwan Lee
+    journal: Advanced Materials
+    year: 2020
+    doi: 10.1002/adma.202004456
+    url: https://doi.org/10.1002/adma.202004456
+    abstract: AbstractThe vision system of arthropods consists of a dense array of
+      individual photodetecting elements across a curvilinear surface. This compound‐eye
+      architecture could be a useful model for optoelectronic sensing devices that
+      require a large field of view and high sensitivity to motion. Strategies that
+      aim to mimic the compound‐eye architecture involve integrating photodetector
+      pixels with a curved microlens, but their fabrication on a curvilinear surface
+      is challenged by the use of standard ...
 - year: '2019'
   items:
   - title: 'Organic Electronics: Flexible Low‐Power Operative Organic Source‐Gated
