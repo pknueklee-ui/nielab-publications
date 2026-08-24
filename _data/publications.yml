@@ -15,6 +15,21 @@
       \ remains a significant challenge, limiting their practical deployment. Here,\
       \ an all-solution approach that integrates ion-responsive polymer coatings on\
       \ silver gate electrodes to address both sensi..."
+  - title: Micelle‐Guided Ion Pathways and Graded Polymer Cross‐Linking for Reliable
+      Filament Growth in Organic Memristors
+    authors: Jeong Hye Song, Seung Hwan Chung, Ji Eun Seo, Chang‐Jae Beak, Woo‐Jae
+      Lee, Sin‐Hyung Lee, <b>Eun Kwang Lee</b>
+    journal: Advanced Materials Technologies
+    year: 2026
+    doi: 10.1002/admt.71084
+    url: https://doi.org/10.1002/admt.71084
+    abstract: "ABSTRACT\n                  \n                    Electrochemical metallization\
+      \ (ECM)‐based organic memristors typically rely on an electroforming step to\
+      \ initiate conductive filament (CF) growth; however, this process is often prolonged\
+      \ and unreliable due to uncontrolled ion migration. Despite considerable efforts,\
+      \ achieving stable and reliable organic ECM devices through a simple, solution‐process‐compatible\
+      \ method remains challenging. Here, we introduce a bilayer organic memristor\
+      \ architecture ..."
   - title: Seamless human electronics interfacing through advanced skin attachable
       and implantable sensor technologies
     authors: Woojo Kim, Yonghee Kim, Hocheon Yoo, <b>Eun Kwang Lee</b>
@@ -31,21 +46,6 @@
     doi: 10.1016/j.mssp.2026.110610
     url: https://doi.org/10.1016/j.mssp.2026.110610
     abstract: '...'
-  - title: Micelle‐Guided Ion Pathways and Graded Polymer Cross‐Linking for Reliable
-      Filament Growth in Organic Memristors
-    authors: Jeong Hye Song, Seung Hwan Chung, Ji Eun Seo, Chang‐Jae Beak, Woo‐Jae
-      Lee, Sin‐Hyung Lee, <b>Eun Kwang Lee</b>
-    journal: Advanced Materials Technologies
-    year: 2026
-    doi: 10.1002/admt.71084
-    url: https://doi.org/10.1002/admt.71084
-    abstract: "ABSTRACT\n                  \n                    Electrochemical metallization\
-      \ (ECM)‐based organic memristors typically rely on an electroforming step to\
-      \ initiate conductive filament (CF) growth; however, this process is often prolonged\
-      \ and unreliable due to uncontrolled ion migration. Despite considerable efforts,\
-      \ achieving stable and reliable organic ECM devices through a simple, solution‐process‐compatible\
-      \ method remains challenging. Here, we introduce a bilayer organic memristor\
-      \ architecture ..."
   - title: Adaptive VOC detection with alcohol dehydrogenase-integrated gelatin transistors
     authors: Han Na Kim, Jeong Hye Song, Hyo-Ryoung Lim, Wangmyung Choi, Sang Hyun
       Lee, Gun Ho Hong, Seyong Oh, Hocheon Yoo, <b>Eun Kwang Lee</b>
@@ -185,13 +185,13 @@
     year: 2025
     doi: 10.1002/adma.202506729
     url: https://doi.org/10.1002/adma.202506729
-    abstract: AbstractOrganic electrochemical transistors (OECTs) show significant
-      promise for bioelectronics and neuromorphic computing applications due to their
-      low operating voltage, biocompatibility, and ion‐mediated charge transport.
-      However, conventional OECTs with permanently fixed organic semiconductor (OSC)
-      layers lack modularity and reusability for sustainable electronics with e‐waste
-      reduction. Here, a novel reinforced π‐ion film OECT featuring a detachable and
-      reusable OSC layer that creates a uni...
+    abstract: "Abstract\n                  Organic electrochemical transistors (OECTs)\
+      \ show significant promise for bioelectronics and neuromorphic computing applications\
+      \ due to their low operating voltage, biocompatibility, and ion‐mediated charge\
+      \ transport. However, conventional OECTs with permanently fixed organic semiconductor\
+      \ (OSC) layers lack modularity and reusability for sustainable electronics with\
+      \ e‐waste reduction. Here, a novel reinforced π‐ion film OECT featuring a detachable\
+      \ and reusable OSC layer..."
   - title: Highly Efficient n‐Type Doped Single‐Crystalline Perylene Diimide Microwires
       via Solution Processing for High‐Performance Photosensors and Photo‐Neuromorphic
       Devices
@@ -359,13 +359,13 @@
     year: 2024
     doi: 10.1002/marc.202400165
     url: https://doi.org/10.1002/marc.202400165
-    abstract: AbstractPoly(3,4‐ethylenedioxythiophene):polystyrene sulfonate (PEDOT:PSS),
-      a conductive polymer, has gained popularity as the channel layer in organic
-      electrochemical transistors (OECTs) due to its high conductivity and straightforward
-      processing. However, difficulties arise in controlling its conductivity through
-      gate voltage, presenting a challenge. To address this issue, aromatic amidine
-      base, diazabicyclo[4.3.0]non‐5‐ene (DBN), is used to stabilize the doping state
-      of the PEDOT chain throug...
+    abstract: "Abstract\n                  Poly(3,4‐ethylenedioxythiophene):polystyrene\
+      \ sulfonate (PEDOT:PSS), a conductive polymer, has gained popularity as the\
+      \ channel layer in organic electrochemical transistors (OECTs) due to its high\
+      \ conductivity and straightforward processing. However, difficulties arise in\
+      \ controlling its conductivity through gate voltage, presenting a challenge.\
+      \ To address this issue, aromatic amidine base, diazabicyclo[4.3.0]non‐5‐ene\
+      \ (DBN), is used to stabilize the doping state of the..."
   - title: n-Type Doping Effect of Anthracene-Based Cationic Dyes in Organic Electronics
     authors: Yonghee Kim, Minju Jung, Rajeev Kumar, Jeong-Mo Choi, <b>Eun Kwang Lee</b>,
       Jiyoul Lee
@@ -550,13 +550,13 @@
     year: 2019
     doi: 10.1002/adfm.201900650
     url: https://doi.org/10.1002/adfm.201900650
-    abstract: AbstractLow‐voltage operation and fast switching ability are necessary
-      for wearable electronic devices. Recently, electrolyte dielectric materials
-      have been widely used to decrease driving voltages; however, they often exhibit
-      unwanted doping effects and power dissipation problems. Here, a method for dramatically
-      lowering driving voltages is reported in organic electronics via source‐gated
-      transistor (SGT) structures. SGTs are fabricated by evaporating asymmetric metals
-      with different work funct...
+    abstract: "Abstract\n                  Low‐voltage operation and fast switching\
+      \ ability are necessary for wearable electronic devices. Recently, electrolyte\
+      \ dielectric materials have been widely used to decrease driving voltages; however,\
+      \ they often exhibit unwanted doping effects and power dissipation problems.\
+      \ Here, a method for dramatically lowering driving voltages is reported in organic\
+      \ electronics via source‐gated transistor (SGT) structures. SGTs are fabricated\
+      \ by evaporating asymmetric metals with d..."
 - year: '2018'
   items:
   - title: Reduced Pyronin B as a solution-processable and heating-free n-type dopant
@@ -577,13 +577,13 @@
     year: 2017
     doi: 10.1002/adma.201703638
     url: https://doi.org/10.1002/adma.201703638
-    abstract: AbstractRecent interest in flexible electronics has led to a paradigm
-      shift in consumer electronics, and the emergent development of stretchable and
-      wearable electronics is opening a new spectrum of ubiquitous applications for
-      electronics. Organic electronic materials, such as π‐conjugated small molecules
-      and polymers, are highly suitable for use in low‐cost wearable electronic devices,
-      and their charge‐carrier mobilities have now exceeded that of amorphous silicon.
-      However, their commercializat...
+    abstract: "Abstract\n                  Recent interest in flexible electronics\
+      \ has led to a paradigm shift in consumer electronics, and the emergent development\
+      \ of stretchable and wearable electronics is opening a new spectrum of ubiquitous\
+      \ applications for electronics. Organic electronic materials, such as π‐conjugated\
+      \ small molecules and polymers, are highly suitable for use in low‐cost wearable\
+      \ electronic devices, and their charge‐carrier mobilities have now exceeded\
+      \ that of amorphous silicon. However, t..."
   - title: Chemically Robust Ambipolar Organic Transistor Array Directly Patterned
       by Photolithography
     authors: <b>Eun Kwang Lee</b>, Cheol Hee Park, Junghoon Lee, Hae Rang Lee, Changduk
@@ -654,13 +654,13 @@
     year: 2015
     doi: 10.1038/ncomms7486
     url: https://doi.org/10.1038/ncomms7486
-    abstract: AbstractRecent graphene research has triggered enormous interest in
-      new two-dimensional ordered crystals constructed by the inclusion of elements
-      other than carbon for bandgap opening. The design of new multifunctional two-dimensional
-      materials with proper bandgap has become an important challenge. Here we report
-      a layered two-dimensional network structure that possesses evenly distributed
-      holes and nitrogen atoms and a C2N stoichiometry in its basal plane. The two-dimensional
-      structure can be e...
+    abstract: "Abstract\n                  \n                    Recent graphene research\
+      \ has triggered enormous interest in new two-dimensional ordered crystals constructed\
+      \ by the inclusion of elements other than carbon for bandgap opening. The design\
+      \ of new multifunctional two-dimensional materials with proper bandgap has become\
+      \ an important challenge. Here we report a layered two-dimensional network structure\
+      \ that possesses evenly distributed holes and nitrogen atoms and a C\n     \
+      \               2\n            ..."
   - title: ZnO Nanowire Based Photoelectrical Resistive Switches for Flexible Memory
     authors: Jinjoo Park, Hongseon Song, <b>Eun Kwang Lee</b>, Joon Hak Oh, Kijung
       Yong
