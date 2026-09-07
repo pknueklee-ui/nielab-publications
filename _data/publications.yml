@@ -135,6 +135,16 @@
       \ fluoropolymer ion gel engineered by grafting sulfobetaine side chains onto\
       \ a flexible PVDF‐CTFE backbone, is introduced. Crystallinity drops to ≈3%,\
       \ and fracture strain rises to 84%. Paired with P..."
+  - title: Highly aligned polymer nanowire-based fin architecture for enhanced functionality
+      of organic electrochemical transistors in neuromorphic computing
+    authors: Yonghee Kim, Wonbeen Jeong, <b>Eun Kwang Lee</b>, Jiyoul Lee
+    journal: Journal of Materials Chemistry C
+    year: 2026
+    doi: 10.1039/D5TC03449C
+    url: https://doi.org/10.1039/D5TC03449C
+    abstract: Aligned polymer nanowires in organic transistors achieve highly linear
+      synaptic plasticity by enhancing interactions between conjugated polymer and
+      ion–gel electrolytes, enabling efficient neuromorphic computing....
 - year: '2025'
   items:
   - title: 'Advances in Organic In‐Sensor Neuromorphic Computing: from Material Mechanisms
@@ -151,6 +161,14 @@
       serve as key components, utilizing ion–electron coupling and nonvolatile synaptic
       weight modulation for energy‐efficient neuromorphic functions. Reflecting the
       potential of the aforement...
+  - title: 'Advances in Organic In‐Sensor Neuromorphic Computing: from Material Mechanisms
+      to Applications'
+    authors: Dong Hyun Lee, Woojo Kim, <b>Eun Kwang Lee</b>, Hocheon Yoo
+    journal: Advanced Intelligent Discovery
+    year: 2025
+    doi: 10.1002/aidi.70059
+    url: https://doi.org/10.1002/aidi.70059
+    abstract: '...'
   - title: Enhanced Photocurrent of Electrodeposited Copper Oxide Films Doped with
       Solution-Processable Organic Cationic Dye as a Dopant
     authors: Hye Won Lee, Jiyoul Lee, <b>Eun Kwang Lee</b>
@@ -159,6 +177,21 @@
     doi: 10.1007/s11814-025-00533-x
     url: https://doi.org/10.1007/s11814-025-00533-x
     abstract: '...'
+  - title: 'Detachable and Reusable: Reinforced π‐Ion Film for Modular Synaptic Reservoir
+      Computing'
+    authors: Gyu Won Woo, Chang Min Lee, Won Woo Lee, Min Ju Jung, Seung Min Lee,
+      Hye Won Lee, Hocheon Yoo, Yong Hee Kim, <b>Eun Kwang Lee</b>
+    journal: Advanced Materials
+    year: 2025
+    doi: 10.1002/adma.202506729
+    url: https://doi.org/10.1002/adma.202506729
+    abstract: "Abstract\n                  Organic electrochemical transistors (OECTs)\
+      \ show significant promise for bioelectronics and neuromorphic computing applications\
+      \ due to their low operating voltage, biocompatibility, and ion‐mediated charge\
+      \ transport. However, conventional OECTs with permanently fixed organic semiconductor\
+      \ (OSC) layers lack modularity and reusability for sustainable electronics with\
+      \ e‐waste reduction. Here, a novel reinforced π‐ion film OECT featuring a detachable\
+      \ and reusable OSC layer..."
   - title: Highly Efficient n‐Type Doped Single‐Crystalline Perylene Diimide Microwires
       via Solution Processing for High‐Performance Photosensors and Photo‐Neuromorphic
       Devices
@@ -175,6 +208,15 @@
       applied to OSCSs. In this study, the enhancement of conductivity and photosensitivity
       of n‐type OSCS microwires (MWs) based on a small molecular semiconductor and
       an n‐type organic cationic ...
+  - title: Tailored phase separation in P3HT:PS blends for enhanced synaptic performance
+      in organic electrochemical transistors
+    authors: Seung Hwan Chung, Jeong Hye Song, Won Woo Lee, Hocheon Yoo, Hyo-Ryoung
+      Lim, <b>Eun Kwang Lee</b>
+    journal: Synthetic Metals
+    year: 2025
+    doi: 10.1016/j.synthmet.2025.117919
+    url: https://doi.org/10.1016/j.synthmet.2025.117919
+    abstract: '...'
   - title: Preparation of polyurethane sulfonate films as a motion sensing substrate
       with the compliant coating of PEDOT:PSS
     authors: Sung Moon Park, Seung Min Lee, Young Je Kwon, Kie Yong Cho, Soaram Kim,
@@ -183,6 +225,14 @@
     year: 2025
     doi: 10.1007/s13233-025-00401-x
     url: https://doi.org/10.1007/s13233-025-00401-x
+    abstract: '...'
+  - title: Visible-Light-Responsive Organic Synaptic Devices Based on Rhodamine B-Doped
+      Source-Gated Transistors
+    authors: Yonghee Kim, Chang Min Lee, <b>Eun Kwang Lee</b>
+    journal: ACS Applied Materials &amp; Interfaces
+    year: 2025
+    doi: 10.1021/acsami.5c07717
+    url: https://doi.org/10.1021/acsami.5c07717
     abstract: '...'
   - title: A Self-powered Kinetic Motion Sensor Fabricated from Electrospun MOF-5/PVDF-TrFE
       Composites Piezoelectric Nanogenerators
@@ -221,6 +271,32 @@
       \ systems makes them particularly suitable for neuromorphic applications. For\
       \ neuromorphic devices, OECTs must enhance electrical performance, biocompatibility,\
       \ and signal storage/erasure capabilities...."
+  - title: Ultraviolet Photodetector Fabrication with Low‐Power Dissipation Based
+      on Organic Suboptimal Source‐Gated Transistor Architecture and MoO3‐Doped Pentacene
+    authors: Min Ju Jung, Yonghee Kim, Kang‐Jun Baeg, <b>Eun Kwang Lee</b>
+    journal: Small
+    year: 2025
+    doi: 10.1002/smll.202408772
+    url: https://doi.org/10.1002/smll.202408772
+    abstract: AbstractOrganic field‐effect transistor (OFET)‐based photodetectors
+      have been extensively studied owing to their potential applications in various
+      fields, such as imaging, communication, and environmental monitoring. However,
+      the traditional OFET structure brings about high power consumption. Furthermore,
+      their low electrical performance and light sensitivity must be improved to detect
+      harmful UV rays that accelerate skin aging and cause vision degradation. One
+      strategy to fabricate high‐perform...
+  - title: Aligned conjugated polymer nanowires for enhanced performance in organic
+      transistors and neuromorphic devices
+    authors: Wonbeen Jeong, Jin Seok Yoon, Yonghee Kim, <b>Eun Kwang Lee</b>, Young
+      Tea Chun, Jiyoul Lee
+    journal: Nanoscale
+    year: 2025
+    doi: 10.1039/D5NR03612G
+    url: https://doi.org/10.1039/D5NR03612G
+    abstract: "Aligned PBTTT-C\n                    14\n                    nanowires\
+      \ fabricated\n                    via\n                    PDMS-guided edge-accumulation\
+      \ show enhanced molecular order, improved electrolyte interaction, and markedly\
+      \ boosted OECT and synaptic device performance...."
   - title: Improved neuromorphic functionality in organic electrochemical transistors
       using crosslinked-polyvinyl alcohol for fast ion transport and its application
       to Pavlovian transistors
@@ -233,8 +309,41 @@
     abstract: Cross-linked polyvinyl alcohol (CX-PVA) enhances ion transport in OECTs,
       boosting transconductance, switching speed, and synaptic plasticity, thereby
       advancing neuromorphic computing and bioelectronic applications....
+  - title: Kinetic swelling-driven PTG interlayers for enhanced crystallinity and
+      charge transport in polymer OECTs
+    authors: Jeong Hye Song, Yonghee Kim, Hocheon Yoo, <b>Eun Kwang Lee</b>
+    journal: Journal of Materials Chemistry C
+    year: 2025
+    doi: 10.1039/D5TC01098E
+    url: https://doi.org/10.1039/D5TC01098E
+    abstract: Engineering a PVA-based interlayer substantially enhances OSC crystal
+      growth. This results in advanced synaptic functions and a 7.2-fold performance
+      increase in organic transistors for neuromorphic systems....
 - year: '2024'
   items:
+  - title: Organic Electrochemical Transistors with Microporous Structures via Phase‐Separation
+      for Enhancing Long‐Term Plasticity in Artificial Synapses
+    authors: Hui Su Yang, Woojo Kim, Hocheon Yoo, <b>Eun Kwang Lee</b>
+    journal: Advanced Materials Technologies
+    year: 2024
+    doi: 10.1002/admt.202400478
+    url: https://doi.org/10.1002/admt.202400478
+    abstract: AbstractArtificial synapses, inspired by the intricate design of biological
+      synapses, utilize electrical, chemical, and mechanical signals to transmit and
+      retain information. Recent advances have involved research on artificial synapses
+      based on organic electrochemical transistors (OECTs), emphasizing low power
+      consumption and rapid response times. A notable challenge arises when the gate
+      voltage is removed, causing doped ions to return quickly to the electrolyte.
+      A simple yet efficient approach...
+  - title: Controlling Long-Term Plasticity in Neuromorphic Computing Through Modulation
+      of Ferroelectric Polarization
+    authors: Donghwa Lee, Junho Sung, Minhui Kim, Na-Hyeon Kim, Seonggyu Lee, Hee-Young
+      Lee, <b>Eun Kwang Lee</b>, Dongyeong Jeong, Eunho Lee
+    journal: ACS Applied Materials &amp; Interfaces
+    year: 2024
+    doi: 10.1021/acsami.4c11731
+    url: https://doi.org/10.1021/acsami.4c11731
+    abstract: '...'
   - title: Enhancing Stability of n-Type Doped Organic Semiconductors through Low
       Boiling Point Solvent-Assisted Room Temperature Drying
     authors: Da Eun Lee, Joon Hak Oh, <b>Eun Kwang Lee</b>
@@ -394,24 +503,6 @@
       with a C5N basal plane stoichiometry is designed and synthesized, and thin films
       are cast from C5N solution onto silicon dioxide substrates. Then field‐effect
       transistors are fabricat...
-- year: '2020'
-  items:
-  - title: Fractal Web Design of a Hemispherical Photodetector Array with Organic‐Dye‐Sensitized
-      Graphene Hybrid Composites
-    authors: <b>Eun Kwang Lee</b>, Ratul Kumar Baruah, Jung Woo Leem, Woohyun Park,
-      Bong Hoon Kim, Augustine Urbas, Zahyun Ku, Young L. Kim, Muhammad Ashraful Alam,
-      Chi Hwan Lee
-    journal: Advanced Materials
-    year: 2020
-    doi: 10.1002/adma.202004456
-    url: https://doi.org/10.1002/adma.202004456
-    abstract: AbstractThe vision system of arthropods consists of a dense array of
-      individual photodetecting elements across a curvilinear surface. This compound‐eye
-      architecture could be a useful model for optoelectronic sensing devices that
-      require a large field of view and high sensitivity to motion. Strategies that
-      aim to mimic the compound‐eye architecture involve integrating photodetector
-      pixels with a curved microlens, but their fabrication on a curvilinear surface
-      is challenged by the use of standard ...
 - year: '2019'
   items:
   - title: 'Organic Electronics: Flexible Low‐Power Operative Organic Source‐Gated
@@ -552,8 +643,44 @@
       \ an important challenge. Here we report a layered two-dimensional network structure\
       \ that possesses evenly distributed holes and nitrogen atoms and a C\n     \
       \               2\n            ..."
+  - title: ZnO Nanowire Based Photoelectrical Resistive Switches for Flexible Memory
+    authors: Jinjoo Park, Hongseon Song, <b>Eun Kwang Lee</b>, Joon Hak Oh, Kijung
+      Yong
+    journal: Journal of The Electrochemical Society
+    year: 2015
+    doi: 10.1149/2.1111509jes
+    url: https://doi.org/10.1149/2.1111509jes
+    abstract: '...'
 - year: '2014'
   items:
+  - title: Direct Solvothermal Synthesis of B/N‐Doped Graphene
+    authors: Sun‐Min Jung, <b>Eun Kwang Lee</b>, Min Choi, Dongbin Shin, In‐Yup Jeon,
+      Jeong‐Min Seo, Hu Young Jeong, Noejung Park, Joon Hak Oh, Jong‐Beom Baek
+    journal: Angewandte Chemie
+    year: 2014
+    doi: 10.1002/ange.201310260
+    url: https://doi.org/10.1002/ange.201310260
+    abstract: AbstractHeteroatom‐doping into graphitic networks has been utilized
+      for opening the band gap of graphene. However, boron‐doping into the graphitic
+      framework is extremely limited, whereas nitrogen‐doping is relatively feasible.
+      Herein, boron/nitrogen co‐doped graphene (BCN‐graphene) is directly synthesized
+      from the reaction of CCl4, BBr3, and N2 in the presence of potassium. The resultant
+      BCN‐graphene has boron and nitrogen contents of 2.38 and 2.66 atom %, respectively,
+      and displays good dispers...
+  - title: Direct Solvothermal Synthesis of B/N‐Doped Graphene
+    authors: Sun‐Min Jung, <b>Eun Kwang Lee</b>, Min Choi, Dongbin Shin, In‐Yup Jeon,
+      Jeong‐Min Seo, Hu Young Jeong, Noejung Park, Joon Hak Oh, Jong‐Beom Baek
+    journal: Angewandte Chemie International Edition
+    year: 2014
+    doi: 10.1002/anie.201310260
+    url: https://doi.org/10.1002/anie.201310260
+    abstract: AbstractHeteroatom‐doping into graphitic networks has been utilized
+      for opening the band gap of graphene. However, boron‐doping into the graphitic
+      framework is extremely limited, whereas nitrogen‐doping is relatively feasible.
+      Herein, boron/nitrogen co‐doped graphene (BCN‐graphene) is directly synthesized
+      from the reaction of CCl4, BBr3, and N2 in the presence of potassium. The resultant
+      BCN‐graphene has boron and nitrogen contents of 2.38 and 2.66 atom %, respectively,
+      and displays good dispers...
   - title: Graphene–Ruthenium Complex Hybrid Photodetectors with Ultrahigh Photoresponsivity
     authors: Xien Liu, <b>Eun Kwang Lee</b>, Joon Hak Oh
     journal: Small
