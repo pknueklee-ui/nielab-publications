@@ -503,6 +503,24 @@
       with a C5N basal plane stoichiometry is designed and synthesized, and thin films
       are cast from C5N solution onto silicon dioxide substrates. Then field‐effect
       transistors are fabricat...
+- year: '2020'
+  items:
+  - title: Fractal Web Design of a Hemispherical Photodetector Array with Organic‐Dye‐Sensitized
+      Graphene Hybrid Composites
+    authors: <b>Eun Kwang Lee</b>, Ratul Kumar Baruah, Jung Woo Leem, Woohyun Park,
+      Bong Hoon Kim, Augustine Urbas, Zahyun Ku, Young L. Kim, Muhammad Ashraful Alam,
+      Chi Hwan Lee
+    journal: Advanced Materials
+    year: 2020
+    doi: 10.1002/adma.202004456
+    url: https://doi.org/10.1002/adma.202004456
+    abstract: AbstractThe vision system of arthropods consists of a dense array of
+      individual photodetecting elements across a curvilinear surface. This compound‐eye
+      architecture could be a useful model for optoelectronic sensing devices that
+      require a large field of view and high sensitivity to motion. Strategies that
+      aim to mimic the compound‐eye architecture involve integrating photodetector
+      pixels with a curved microlens, but their fabrication on a curvilinear surface
+      is challenged by the use of standard ...
 - year: '2019'
   items:
   - title: 'Organic Electronics: Flexible Low‐Power Operative Organic Source‐Gated
