@@ -1,5 +1,20 @@
 - year: '2026'
   items:
+  - title: Gate Electrode Engineering for Tunable Synaptic Plasticity in Organic Electrochemical
+      Neuromorphic Devices
+    authors: Yonghee Kim, Woojo Kim, Chang‐Jae Beak, Wen‐Ya Lee, Fabrizio Torricelli,
+      Hocheon Yoo, Sin‐Hyung Lee, <b>Eun Kwang Lee</b>
+    journal: Advanced Functional Materials
+    year: 2026
+    doi: 10.1002/adfm.78803
+    url: https://doi.org/10.1002/adfm.78803
+    abstract: "ABSTRACT\n                  Organic electrochemical transistors (OECTs)\
+      \ are widely studied for neuromorphic hardware, as their volumetric electrochemical\
+      \ doping couples ionic and electronic transport to mimic biological synaptic\
+      \ transmission. Research on OECT‐based artificial synapses has focused predominantly\
+      \ on the organic mixed ionic–electronic conductor channel, while the gate electrode\
+      \ has largely been treated as a passive input terminal. Yet because the gate\
+      \ electrode governs electrochemica..."
   - title: Fully Solution-Processed Organic Electrochemical Transistors with Nafion/Chitosan-Coated
       Gates for Enhanced Cation Detection and Scalable Production
     authors: Ji Eun Seo, Yonghee Kim, Seungme Kang, Seung Hwan Chung, Jeong Hye Song,
