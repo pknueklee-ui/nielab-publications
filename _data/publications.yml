@@ -135,6 +135,31 @@
     doi: 10.1007/s13233-025-00489-1
     url: https://doi.org/10.1007/s13233-025-00489-1
     abstract: '...'
+  - title: Zwitterionic Fluoropolymer‐Engineered Synaptic Clefts Enhance Ion Dynamics
+      in Neuromorphic OECTs
+    authors: Ji Seon Kim, Young Je Kwon, Jung‐Hye Song, Yoon Ah Im, Dong Jun Han,
+      Ho Jin Jung, Kie Yong Cho, <b>Eun Kwang Lee</b>
+    journal: Advanced Materials Technologies
+    year: 2026
+    doi: 10.1002/admt.202501662
+    url: https://doi.org/10.1002/admt.202501662
+    abstract: "Abstract\n                  \n                    Organic electrochemical\
+      \ transistors (OECTs) offer a compelling platform for hardware synapses, yet\
+      \ ion transport through the common semi‐crystalline PVDF‐HFP electrolyte suppresses\
+      \ switching speed and energy efficiency. Here, DPVDF‐SZ, a soft zwitterionic\
+      \ fluoropolymer ion gel engineered by grafting sulfobetaine side chains onto\
+      \ a flexible PVDF‐CTFE backbone, is introduced. Crystallinity drops to ≈3%,\
+      \ and fracture strain rises to 84%. Paired with P..."
+  - title: Highly aligned polymer nanowire-based fin architecture for enhanced functionality
+      of organic electrochemical transistors in neuromorphic computing
+    authors: Yonghee Kim, Wonbeen Jeong, <b>Eun Kwang Lee</b>, Jiyoul Lee
+    journal: Journal of Materials Chemistry C
+    year: 2026
+    doi: 10.1039/D5TC03449C
+    url: https://doi.org/10.1039/D5TC03449C
+    abstract: Aligned polymer nanowires in organic transistors achieve highly linear
+      synaptic plasticity by enhancing interactions between conjugated polymer and
+      ion–gel electrolytes, enabling efficient neuromorphic computing....
 - year: '2025'
   items:
   - title: 'Advances in Organic In‐Sensor Neuromorphic Computing: from Material Mechanisms
@@ -151,6 +176,14 @@
       serve as key components, utilizing ion–electron coupling and nonvolatile synaptic
       weight modulation for energy‐efficient neuromorphic functions. Reflecting the
       potential of the aforement...
+  - title: 'Advances in Organic In‐Sensor Neuromorphic Computing: from Material Mechanisms
+      to Applications'
+    authors: Dong Hyun Lee, Woojo Kim, <b>Eun Kwang Lee</b>, Hocheon Yoo
+    journal: Advanced Intelligent Discovery
+    year: 2025
+    doi: 10.1002/aidi.70059
+    url: https://doi.org/10.1002/aidi.70059
+    abstract: '...'
   - title: Enhanced Photocurrent of Electrodeposited Copper Oxide Films Doped with
       Solution-Processable Organic Cationic Dye as a Dopant
     authors: Hye Won Lee, Jiyoul Lee, <b>Eun Kwang Lee</b>
@@ -159,6 +192,21 @@
     doi: 10.1007/s11814-025-00533-x
     url: https://doi.org/10.1007/s11814-025-00533-x
     abstract: '...'
+  - title: 'Detachable and Reusable: Reinforced π‐Ion Film for Modular Synaptic Reservoir
+      Computing'
+    authors: Gyu Won Woo, Chang Min Lee, Won Woo Lee, Min Ju Jung, Seung Min Lee,
+      Hye Won Lee, Hocheon Yoo, Yong Hee Kim, <b>Eun Kwang Lee</b>
+    journal: Advanced Materials
+    year: 2025
+    doi: 10.1002/adma.202506729
+    url: https://doi.org/10.1002/adma.202506729
+    abstract: "Abstract\n                  Organic electrochemical transistors (OECTs)\
+      \ show significant promise for bioelectronics and neuromorphic computing applications\
+      \ due to their low operating voltage, biocompatibility, and ion‐mediated charge\
+      \ transport. However, conventional OECTs with permanently fixed organic semiconductor\
+      \ (OSC) layers lack modularity and reusability for sustainable electronics with\
+      \ e‐waste reduction. Here, a novel reinforced π‐ion film OECT featuring a detachable\
+      \ and reusable OSC layer..."
   - title: Highly Efficient n‐Type Doped Single‐Crystalline Perylene Diimide Microwires
       via Solution Processing for High‐Performance Photosensors and Photo‐Neuromorphic
       Devices
@@ -183,6 +231,23 @@
     year: 2025
     doi: 10.1016/j.synthmet.2025.117919
     url: https://doi.org/10.1016/j.synthmet.2025.117919
+    abstract: '...'
+  - title: Preparation of polyurethane sulfonate films as a motion sensing substrate
+      with the compliant coating of PEDOT:PSS
+    authors: Sung Moon Park, Seung Min Lee, Young Je Kwon, Kie Yong Cho, Soaram Kim,
+      <b>Eun Kwang Lee</b>
+    journal: Macromolecular Research
+    year: 2025
+    doi: 10.1007/s13233-025-00401-x
+    url: https://doi.org/10.1007/s13233-025-00401-x
+    abstract: '...'
+  - title: Visible-Light-Responsive Organic Synaptic Devices Based on Rhodamine B-Doped
+      Source-Gated Transistors
+    authors: Yonghee Kim, Chang Min Lee, <b>Eun Kwang Lee</b>
+    journal: ACS Applied Materials &amp; Interfaces
+    year: 2025
+    doi: 10.1021/acsami.5c07717
+    url: https://doi.org/10.1021/acsami.5c07717
     abstract: '...'
   - title: A Self-powered Kinetic Motion Sensor Fabricated from Electrospun MOF-5/PVDF-TrFE
       Composites Piezoelectric Nanogenerators
@@ -439,8 +504,48 @@
     doi: 10.1002/adma.202170063
     url: https://doi.org/10.1002/adma.202170063
     abstract: '...'
+  - title: Fused Aromatic Network with Exceptionally High Carrier Mobility
+    authors: Javeed Mahmood, <b>Eun Kwang Lee</b>, Hyuk‐Jun Noh, Ishfaq Ahmad, Jeong‐Min
+      Seo, Yoon‐Kwang Im, Jong‐Pil Jeon, Seok‐Jin Kim, Joon Hak Oh, Jong‐Beom Baek
+    journal: Advanced Materials
+    year: 2021
+    doi: 10.1002/adma.202004707
+    url: https://doi.org/10.1002/adma.202004707
+    abstract: AbstractRecently, studies of 2D organic layered materials with unique
+      electronic properties have generated considerable interest in the research community.
+      However, the development of organic materials with functional electrical transport
+      properties is still needed. Here, a 2D fused aromatic network (FAN) structure
+      with a C5N basal plane stoichiometry is designed and synthesized, and thin films
+      are cast from C5N solution onto silicon dioxide substrates. Then field‐effect
+      transistors are fabricat...
+- year: '2020'
+  items:
+  - title: Fractal Web Design of a Hemispherical Photodetector Array with Organic‐Dye‐Sensitized
+      Graphene Hybrid Composites
+    authors: <b>Eun Kwang Lee</b>, Ratul Kumar Baruah, Jung Woo Leem, Woohyun Park,
+      Bong Hoon Kim, Augustine Urbas, Zahyun Ku, Young L. Kim, Muhammad Ashraful Alam,
+      Chi Hwan Lee
+    journal: Advanced Materials
+    year: 2020
+    doi: 10.1002/adma.202004456
+    url: https://doi.org/10.1002/adma.202004456
+    abstract: AbstractThe vision system of arthropods consists of a dense array of
+      individual photodetecting elements across a curvilinear surface. This compound‐eye
+      architecture could be a useful model for optoelectronic sensing devices that
+      require a large field of view and high sensitivity to motion. Strategies that
+      aim to mimic the compound‐eye architecture involve integrating photodetector
+      pixels with a curved microlens, but their fabrication on a curvilinear surface
+      is challenged by the use of standard ...
 - year: '2019'
   items:
+  - title: 'Organic Electronics: Flexible Low‐Power Operative Organic Source‐Gated
+      Transistors (Adv. Funct. Mater. 27/2019)'
+    authors: Yonghee Kim, <b>Eun Kwang Lee</b>, Joon Hak Oh
+    journal: Advanced Functional Materials
+    year: 2019
+    doi: 10.1002/adfm.201970189
+    url: https://doi.org/10.1002/adfm.201970189
+    abstract: '...'
   - title: 'Skin-Mountable Biosensors and Therapeutics: A Review'
     authors: <b>Eun Kwang Lee</b>, Min Ku Kim, Chi Hwan Lee
     journal: Annual Review of Biomedical Engineering
@@ -467,6 +572,17 @@
       \ Here, a method for dramatically lowering driving voltages is reported in organic\
       \ electronics via source‐gated transistor (SGT) structures. SGTs are fabricated\
       \ by evaporating asymmetric metals with d..."
+- year: '2018'
+  items:
+  - title: Reduced Pyronin B as a solution-processable and heating-free n-type dopant
+      for soft electronics
+    authors: <b>Eun Kwang Lee</b>, Yonghee Kim, Jisu Back, Eunsung Lee, Joon Hak Oh
+    journal: Journal of Materials Chemistry C
+    year: 2018
+    doi: 10.1039/C8TC02094A
+    url: https://doi.org/10.1039/C8TC02094A
+    abstract: A heating-free and solution-processable molecular n-type dopant using
+      an organic cationic dye is demonstrated for graphene and organic electronics....
 - year: '2017'
   items:
   - title: 'Toward Environmentally Robust Organic Electronics: Approaches and Applications'
@@ -494,6 +610,21 @@
     abstract: '...'
 - year: '2016'
   items:
+  - title: Highly Flexible Organic Nanofiber Phototransistors Fabricated on a Textile
+      Composite for Wearable Photosensors
+    authors: Moo Yeol Lee, Jayeon Hong, <b>Eun Kwang Lee</b>, Hojeong Yu, Hyoeun Kim,
+      Jea Uk Lee, Wonoh Lee, Joon Hak Oh
+    journal: Advanced Functional Materials
+    year: 2016
+    doi: 10.1002/adfm.201503230
+    url: https://doi.org/10.1002/adfm.201503230
+    abstract: Highly flexible organic nanofiber phototransistors are fabricated on
+      a highly flexible poly(ethylene terephthalate) (PET) textile/poly(dimethylsiloxane)
+      (PDMS) composite substrate. Organic nanofibers are obtained by electrospinning,
+      using a mixture of poly(3,3″′‐didodecylquarterthiophene) (PQT‐12) and poly(ethylene
+      oxide) (PEO) as the semiconducting polymer and processing aid, respectively.
+      PDMS is used as both a buffer layer for flattening the PET textile and a dielectric
+      layer in the bottom‐ga...
   - title: Effects of microwave-assisted annealing on the morphology and electrical
       performance of semiconducting polymer thin films
     authors: Xiaobo Shang, Hojeong Yu, Wanuk Choi, <b>Eun Kwang Lee</b>, Joon Hak
@@ -512,6 +643,22 @@
     doi: 10.1021/acsami.5b11523
     url: https://doi.org/10.1021/acsami.5b11523
     abstract: '...'
+  - title: "Two-dimensional polyaniline (C\n                    3\n              \
+      \      N) from carbonized organic single crystals in solid state"
+    authors: Javeed Mahmood, <b>Eun Kwang Lee</b>, Minbok Jung, Dongbin Shin, Hyun-Jung
+      Choi, Jeong-Min Seo, Sun-Min Jung, Dongwook Kim, Feng Li, Myoung Soo Lah, Noejung
+      Park, Hyung-Joon Shin, Joon Hak Oh, Jong-Beom Baek
+    journal: Proceedings of the National Academy of Sciences
+    year: 2016
+    doi: 10.1073/pnas.1605318113
+    url: https://doi.org/10.1073/pnas.1605318113
+    abstract: "Significance\n                  \n                    Two-dimensional\
+      \ (2D) polyaniline (PANI) has been realized for the first time, to our knowledge,\
+      \ by direct solid-state reaction of organic single crystals. The 2D PANI framework\
+      \ consists of six nitrogen atoms that periodically surround a phenyl ring. Pristine\
+      \ 2D PANI (undoped) has electrical conductivity of 0.72 S/cm, which is 10\n\
+      \                    10\n                    times higher than its linear analog\
+      \ (undoped, 6.28 × 10\n                  ..."
 - year: '2015'
   items:
   - title: Nitrogenated holey two-dimensional structures
@@ -529,6 +676,57 @@
       \ an important challenge. Here we report a layered two-dimensional network structure\
       \ that possesses evenly distributed holes and nitrogen atoms and a C\n     \
       \               2\n            ..."
+  - title: ZnO Nanowire Based Photoelectrical Resistive Switches for Flexible Memory
+    authors: Jinjoo Park, Hongseon Song, <b>Eun Kwang Lee</b>, Joon Hak Oh, Kijung
+      Yong
+    journal: Journal of The Electrochemical Society
+    year: 2015
+    doi: 10.1149/2.1111509jes
+    url: https://doi.org/10.1149/2.1111509jes
+    abstract: '...'
+- year: '2014'
+  items:
+  - title: Direct Solvothermal Synthesis of B/N‐Doped Graphene
+    authors: Sun‐Min Jung, <b>Eun Kwang Lee</b>, Min Choi, Dongbin Shin, In‐Yup Jeon,
+      Jeong‐Min Seo, Hu Young Jeong, Noejung Park, Joon Hak Oh, Jong‐Beom Baek
+    journal: Angewandte Chemie
+    year: 2014
+    doi: 10.1002/ange.201310260
+    url: https://doi.org/10.1002/ange.201310260
+    abstract: AbstractHeteroatom‐doping into graphitic networks has been utilized
+      for opening the band gap of graphene. However, boron‐doping into the graphitic
+      framework is extremely limited, whereas nitrogen‐doping is relatively feasible.
+      Herein, boron/nitrogen co‐doped graphene (BCN‐graphene) is directly synthesized
+      from the reaction of CCl4, BBr3, and N2 in the presence of potassium. The resultant
+      BCN‐graphene has boron and nitrogen contents of 2.38 and 2.66 atom %, respectively,
+      and displays good dispers...
+  - title: Direct Solvothermal Synthesis of B/N‐Doped Graphene
+    authors: Sun‐Min Jung, <b>Eun Kwang Lee</b>, Min Choi, Dongbin Shin, In‐Yup Jeon,
+      Jeong‐Min Seo, Hu Young Jeong, Noejung Park, Joon Hak Oh, Jong‐Beom Baek
+    journal: Angewandte Chemie International Edition
+    year: 2014
+    doi: 10.1002/anie.201310260
+    url: https://doi.org/10.1002/anie.201310260
+    abstract: AbstractHeteroatom‐doping into graphitic networks has been utilized
+      for opening the band gap of graphene. However, boron‐doping into the graphitic
+      framework is extremely limited, whereas nitrogen‐doping is relatively feasible.
+      Herein, boron/nitrogen co‐doped graphene (BCN‐graphene) is directly synthesized
+      from the reaction of CCl4, BBr3, and N2 in the presence of potassium. The resultant
+      BCN‐graphene has boron and nitrogen contents of 2.38 and 2.66 atom %, respectively,
+      and displays good dispers...
+  - title: Graphene–Ruthenium Complex Hybrid Photodetectors with Ultrahigh Photoresponsivity
+    authors: Xien Liu, <b>Eun Kwang Lee</b>, Joon Hak Oh
+    journal: Small
+    year: 2014
+    doi: 10.1002/smll.201400403
+    url: https://doi.org/10.1002/smll.201400403
+    abstract: The maximum responsivity of a pure monolayer graphene‐based photodetector
+      is currently less than 10 mA W−1 because of small optical absorption and short
+      recombination lifetime. Here, a graphene hybrid photodetector functionalized
+      with a photoactive ruthenium complex that shows an ultrahigh responsivity of
+      ≈1 × 105 A W−1 and a photoconductive gain of ≈3 × 106 under incident optical
+      intensity of the order of sub‐milliwatts is reported. This responsivity is two
+      orders of magnitude higher than the p...
 - year: '2013'
   items:
   - title: Nitrogen-Doped Graphene Nanoplatelets from Simple Solution Edge-Functionalization
@@ -540,4 +738,12 @@
     year: 2013
     doi: 10.1021/ja402555n
     url: https://doi.org/10.1021/ja402555n
+    abstract: '...'
+  - title: Tuning polarity and improving charge transport in organic semiconductors
+    authors: Joon Hak Oh, A-Reum Han, Hojeong Yu, <b>Eun Kwang Lee</b>, Moon Jeong
+      Jang
+    journal: SPIE Proceedings
+    year: 2013
+    doi: 10.1117/12.2023157
+    url: https://doi.org/10.1117/12.2023157
     abstract: '...'
